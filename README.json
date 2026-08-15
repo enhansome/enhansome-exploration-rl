@@ -24,7 +24,7 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37240
+                "stars": 37239
               }
             }
           ]
@@ -108,7 +108,7 @@
                 "last_commit": "2026-08-06T05:37:37Z",
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2496
+                "stars": 2497
               }
             }
           ]
@@ -156,7 +156,7 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37240
+                "stars": 37239
               }
             }
           ]
@@ -204,7 +204,7 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37240
+                "stars": 37239
               }
             }
           ]
@@ -225,7 +225,7 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37240
+                "stars": 37239
               }
             }
           ]
@@ -288,7 +288,7 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37240
+                "stars": 37239
               }
             }
           ]
@@ -330,7 +330,7 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37240
+                "stars": 37239
               }
             }
           ]
@@ -393,7 +393,7 @@
                 "last_commit": "2026-08-14T10:48:36Z",
                 "owner": "microsoft",
                 "repo": "jericho",
-                "stars": 332
+                "stars": 333
               }
             }
           ]
@@ -433,7 +433,7 @@
                 "last_commit": "2026-08-06T05:37:37Z",
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2496
+                "stars": 2497
               }
             }
           ]
@@ -475,7 +475,7 @@
                 "last_commit": "2026-08-06T05:37:37Z",
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2496
+                "stars": 2497
               }
             }
           ]
@@ -538,7 +538,7 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37240
+                "stars": 37239
               }
             }
           ]
@@ -580,7 +580,7 @@
                 "last_commit": "2026-08-06T05:37:37Z",
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2496
+                "stars": 2497
               }
             }
           ]
@@ -621,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:44:00.621Z",
+    "last_updated": "2026-08-15T20:36:23.975Z",
     "original_repository": "opendilab/awesome-exploration-rl",
     "original_repository_sha": "bffecd9a5e535994682e82580ec31dac8a87291e",
     "enhanced_repository": "enhansome/enhansome-exploration-rl",
