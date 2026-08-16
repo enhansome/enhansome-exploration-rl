@@ -45,7 +45,7 @@
                 "last_commit": "2026-08-06T00:15:16Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4665
+                "stars": 4666
               }
             }
           ]
@@ -63,10 +63,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-08-14T12:45:03Z",
+                "last_commit": "2026-08-16T18:37:17Z",
                 "owner": "NetHack",
                 "repo": "NetHack",
-                "stars": 3864
+                "stars": 3866
               }
             }
           ]
@@ -87,7 +87,7 @@
                 "last_commit": "2026-08-06T00:15:16Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4665
+                "stars": 4666
               }
             }
           ]
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-06T00:15:16Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4665
+                "stars": 4666
               }
             }
           ]
@@ -177,7 +177,7 @@
                 "last_commit": "2026-08-06T00:15:16Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4665
+                "stars": 4666
               }
             }
           ]
@@ -601,7 +601,7 @@
                 "last_commit": "2026-08-13T18:03:26Z",
                 "owner": "Farama-Foundation",
                 "repo": "PettingZoo",
-                "stars": 3489
+                "stars": 3490
               }
             }
           ]
@@ -621,7 +621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:36:23.975Z",
+    "last_updated": "2026-08-16T20:36:02.873Z",
     "original_repository": "opendilab/awesome-exploration-rl",
     "original_repository_sha": "bffecd9a5e535994682e82580ec31dac8a87291e",
     "enhanced_repository": "enhansome/enhansome-exploration-rl",
