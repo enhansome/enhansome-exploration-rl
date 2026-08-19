@@ -1,628 +1,1129 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Learnable Behavior Control: Breaking Atari Human World Records via Sample-Efficient Behavior Selection",
+              "description": "(Oral: 10, 8, 8)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Pink Noise Is All You Need: Colored Noise Exploration in Deep Reinforcement Learning",
+              "description": "(Spotlight: 8, 8, 8)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: DeepMind Control Suite",
+                  "description": ", Atari, Adroit hand suite",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 115744122,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T00:15:16Z",
+                    "owner": "google-deepmind",
+                    "repo": "dm_control",
+                    "stars": 4668
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Learning About Progress From Experts",
+              "description": "(Spotlight: 8, 8, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: NetHack",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47593546,
+                    "language": "C",
+                    "last_commit": "2026-08-19T11:40:03Z",
+                    "owner": "NetHack",
+                    "repo": "NetHack",
+                    "stars": 3870
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Latent State Marginalization as a Low-cost Approach to Improving Exploration",
+              "description": "(Poster: 6, 6, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: DeepMind Control Suite",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 115744122,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T00:15:16Z",
+                    "owner": "google-deepmind",
+                    "repo": "dm_control",
+                    "stars": 4668
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Revisiting Curiosity for Exploration in Procedurally Generated Environments",
+              "description": "(Poster: 8, 8, 5, 3, 3)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MiniGrid",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 114143182,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T05:37:37Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "Minigrid",
+                    "stars": 2498
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "MoDem: Accelerating Visual Model-Based Reinforcement Learning with Demonstrations",
+              "description": "(Poster: 8, 6, 6, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Adroit, Meta-World, DeepMind Control Suite",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 115744122,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T00:15:16Z",
+                    "owner": "google-deepmind",
+                    "repo": "dm_control",
+                    "stars": 4668
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICLR 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "From Dirichlet to Rubin: Optimistic Exploration in RL without Bonuses",
+              "description": "(Oral)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: simple tabular grid-world env, Atari",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Phasic Self-Imitative Reduction for Sparse-Reward Goal-Conditioned Reinforcement Learning",
+              "description": "(Spotlight)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Sawyer Push, Ant Maze",
+                  "description": ", Stacking",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 115744122,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T00:15:16Z",
+                    "owner": "google-deepmind",
+                    "repo": "dm_control",
+                    "stars": 4668
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICML 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "When should agents explore?",
+              "description": "(Spotlight: 8, 8, 6, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Learning more skills through optimistic exploration",
+              "description": "(Spotlight: 8, 8, 8, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: tabular grid world, Atari",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Learning Long-Term Reward Redistribution via Randomized Return Decomposition",
+              "description": "(Spotlight: 8, 8, 8, 5)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoCo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Reinforcement Learning with Sparse Rewards using Guidance from Offline Demonstration",
+              "description": "(Spotlight: 8, 8, 8, 6, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoCo",
+                  "description": ", TurtleBot (Waypoint tracking, Obstacle avoidance)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Generative Planning for Temporally Coordinated Exploration in Reinforcement Learning",
+              "description": "(Spotlight: 8, 8, 8, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: classic continuous control env",
+                  "description": ", CARLA",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Learning Altruistic Behaviours in Reinforcement Learning without External Rewards",
+              "description": "(Spotlight: 8, 8, 6, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: grid world env, foraging",
+                  "description": ", multi-agent tag",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 139773449,
+                    "language": "Python",
+                    "last_commit": "2024-09-15T17:06:11Z",
+                    "owner": "semitable",
+                    "repo": "lb-foraging",
+                    "stars": 212
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Anti-Concentrated Confidence Bonuses for Scalable Exploration",
+              "description": "(Poster: 8, 6, 5)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: multi-armed bandit",
+                  "description": ", Atari",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Lipschitz-constrained Unsupervised Skill Discovery",
+              "description": "(Poster: 8, 6, 6, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoCo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "LIGS: Learnable Intrinsic-Reward Generation Selection for Multi-Agent Learning",
+              "description": "(Poster: 8, 6, 5, 5)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: foraging",
+                  "description": ", StarCraft II",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 139773449,
+                    "language": "Python",
+                    "last_commit": "2024-09-15T17:06:11Z",
+                    "owner": "semitable",
+                    "repo": "lb-foraging",
+                    "stars": 212
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Multi-Stage Episodic Control for Strategic Exploration in Text Games",
+              "description": "(Spotlight: 8, 8, 6, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Jericho",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 151300728,
+                    "language": "C",
+                    "last_commit": "2026-08-14T10:48:36Z",
+                    "owner": "microsoft",
+                    "repo": "jericho",
+                    "stars": 333
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICLR 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Interesting Object, Curious Agent: Learning Task-Agnostic Exploration",
+              "description": "(Oral: 9, 8, 8, 8)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MiniGrid",
+                  "description": ", Habitat",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 114143182,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T05:37:37Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "Minigrid",
+                    "stars": 2498
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Tactical Optimism and Pessimism for Deep Reinforcement Learning",
+              "description": "(Poster: 9, 7, 6, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoCo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "MADE: Exploration via Maximizing Deviation from Explored Regions",
+              "description": "(Poster: 7, 7, 6, 5)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MiniGrid",
+                  "description": ", DeepMind Control Suite",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 114143182,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T05:37:37Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "Minigrid",
+                    "stars": 2498
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Adversarial Intrinsic Motivation for Reinforcement Learning",
+              "description": "(Poster: 7, 7, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Grid World, Fetch Robot (based on MuJoCo",
+                  "description": ")",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Information Directed Reward Learning for Reinforcement Learning",
+              "description": "(Poster: 9, 8, 7, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoCo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Dynamic Bottleneck for Robust Self-Supervised Exploration",
+              "description": "(Poster: 8, 6, 6, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Hierarchical Skills for Efficient Exploration",
+              "description": "(Poster: 7, 6, 6, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Hurdles, Limbo, Stairs, GoalWall PoleBalance (based on MuJoCo",
+                  "description": ")",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "NovelD: A Simple yet Effective Exploration Criterion",
+              "description": "(Poster: 7, 6, 6, 6)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MiniGrid",
+                  "description": ", NetHack, Atari",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 114143182,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T05:37:37Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "Minigrid",
+                    "stars": 2498
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Episodic Multi-agent Reinforcement Learning with Curiosity-driven Exploration",
+              "description": "(Poster: 7, 6, 6, 5)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Predator-Prey",
+                  "description": ", StarCraft II",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 235012937,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T18:03:26Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "PettingZoo",
+                    "stars": 3492
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NeurIPS 2021"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Unifying Count-Based Exploration and Intrinsic Motivation",
+              "description": "NeurIPS 2016",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Deep Exploration via Bootstrapped DQN",
+              "description": "NeurIPS 2016",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "VIME: Variational information maximizing exploration",
+              "description": "NeurIPS 2016",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: rllab",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56792704,
+                    "language": "Python",
+                    "last_commit": "2023-06-10T20:57:52Z",
+                    "owner": "rll",
+                    "repo": "rllab",
+                    "stars": 3078
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning",
+              "description": "NeurIPS 2017",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: rllab",
+                  "description": ", Atari",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56792704,
+                    "language": "Python",
+                    "last_commit": "2023-06-10T20:57:52Z",
+                    "owner": "rll",
+                    "repo": "rllab",
+                    "stars": 3078
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "EX2: Exploration with Exemplar Models for Deep Reinforcement Learning",
+              "description": "NeurIPS 2017",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: VizDoom",
+                  "description": ", Atari",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 38127500,
+                    "language": "C++",
+                    "last_commit": "2026-08-13T04:24:18Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "ViZDoom",
+                    "stars": 2060
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Curiosity-driven exploration by self-supervised prediction",
+              "description": "ICML 2017",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: VizDoom",
+                  "description": ", Super Mario Bros",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 38127500,
+                    "language": "C++",
+                    "last_commit": "2026-08-13T04:24:18Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "ViZDoom",
+                    "stars": 2060
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Deep Q-learning from Demonstrations",
+              "description": "AAAI 2018",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Noisy Networks For Exploration",
+              "description": "ICLR 2018",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Exploration by random network distillation",
+              "description": "ICLR 2018",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+              "description": "ICML 2018",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoCo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Large-Scale Study of Curiosity-Driven Learning",
+              "description": "ICLR 2019",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": ", Super Mario Bros",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Diversity is all you need: Learning skills without a reward function",
+              "description": "ICLR 2019",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MuJoCo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56986017,
+                    "language": "Cython",
+                    "last_commit": "2023-12-10T12:47:21Z",
+                    "owner": "openai",
+                    "repo": "mujoco-py",
+                    "stars": 3144
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Episodic Curiosity through Reachability",
+              "description": "ICLR 2019",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: VizDoom",
+                  "description": ", DMLab, MuJoCo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 38127500,
+                    "language": "C++",
+                    "last_commit": "2026-08-13T04:24:18Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "ViZDoom",
+                    "stars": 2060
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Self-Supervised Exploration via Disagreement",
+              "description": "ICML 2019",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Noisy MNIST, Atari",
+                  "description": ", MuJoCo, Unity, real robot",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "EMI: Exploration with Mutual Information",
+              "description": "ICML 2019",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": ", MuJoCo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Making Efficient Use of Demonstrations to Solve Hard Exploration Problems",
+              "description": "arxiv 2019",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Optimistic Exploration even with a Pessimistic Initialisation",
+              "description": "ICLR 2020",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: randomised chain, Maze, Montezuma’s Revenge",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "RIDE: Rewarding Impact-Driven Exploration for Procedurally-Generated Environments",
+              "description": "ICLR 2020",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MiniGrid",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 114143182,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T05:37:37Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "Minigrid",
+                    "stars": 2498
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Never give up: Learning directed exploration strategies",
+              "description": "ICLR 2020",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Agent57: Outperforming the atari human benchmark",
+              "description": "ICML 2020",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": ", roboschool",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Rank the Episodes: A Simple Approach for Exploration in Procedurally-Generated Environments",
+              "description": "ICLR 2021",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: MiniGrid",
+                  "description": ", MiniWorld, MuJoCo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 114143182,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T05:37:37Z",
+                    "owner": "Farama-Foundation",
+                    "repo": "Minigrid",
+                    "stars": 2498
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "First return then explore",
+              "description": "Nature 2021",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ExpEnv: Atari",
+                  "description": ", pick-and-place robotics task",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 57222302,
+                    "language": "Python",
+                    "last_commit": "2026-03-26T23:13:27Z",
+                    "owner": "openai",
+                    "repo": "gym",
+                    "stars": 37239
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Classic Exploration RL Papers"
+        }
+      ],
       "title": "Papers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Learnable Behavior Control: Breaking Atari Human World Records via Sample-Efficient Behavior Selection",
-          "description": "(Oral: 10, 8, 8)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Atari",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2026-03-26T23:13:27Z",
-                "owner": "openai",
-                "repo": "gym",
-                "stars": 37240
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Pink Noise Is All You Need: Colored Noise Exploration in Deep Reinforcement Learning",
-          "description": "(Spotlight: 8, 8, 8)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: DeepMind Control Suite",
-              "description": ", Atari, Adroit hand suite",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-06T00:15:16Z",
-                "owner": "google-deepmind",
-                "repo": "dm_control",
-                "stars": 4667
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Learning About Progress From Experts",
-          "description": "(Spotlight: 8, 8, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: NetHack",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C",
-                "last_commit": "2026-08-18T18:37:41Z",
-                "owner": "NetHack",
-                "repo": "NetHack",
-                "stars": 3869
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Latent State Marginalization as a Low-cost Approach to Improving Exploration",
-          "description": "(Poster: 6, 6, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: DeepMind Control Suite",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-06T00:15:16Z",
-                "owner": "google-deepmind",
-                "repo": "dm_control",
-                "stars": 4667
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Revisiting Curiosity for Exploration in Procedurally Generated Environments",
-          "description": "(Poster: 8, 8, 5, 3, 3)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MiniGrid",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-06T05:37:37Z",
-                "owner": "Farama-Foundation",
-                "repo": "Minigrid",
-                "stars": 2498
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "MoDem: Accelerating Visual Model-Based Reinforcement Learning with Demonstrations",
-          "description": "(Poster: 8, 6, 6, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Adroit, Meta-World, DeepMind Control Suite",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-06T00:15:16Z",
-                "owner": "google-deepmind",
-                "repo": "dm_control",
-                "stars": 4667
-              }
-            }
-          ]
-        }
-      ],
-      "title": "ICLR 2023"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "From Dirichlet to Rubin: Optimistic Exploration in RL without Bonuses",
-          "description": "(Oral)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: simple tabular grid-world env, Atari",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2026-03-26T23:13:27Z",
-                "owner": "openai",
-                "repo": "gym",
-                "stars": 37240
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Phasic Self-Imitative Reduction for Sparse-Reward Goal-Conditioned Reinforcement Learning",
-          "description": "(Spotlight)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Sawyer Push, Ant Maze",
-              "description": ", Stacking",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-06T00:15:16Z",
-                "owner": "google-deepmind",
-                "repo": "dm_control",
-                "stars": 4667
-              }
-            }
-          ]
-        }
-      ],
-      "title": "ICML 2022"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "When should agents explore?",
-          "description": "(Spotlight: 8, 8, 6, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Atari",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2026-03-26T23:13:27Z",
-                "owner": "openai",
-                "repo": "gym",
-                "stars": 37240
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Learning more skills through optimistic exploration",
-          "description": "(Spotlight: 8, 8, 8, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: tabular grid world, Atari",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2026-03-26T23:13:27Z",
-                "owner": "openai",
-                "repo": "gym",
-                "stars": 37240
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Learning Long-Term Reward Redistribution via Randomized Return Decomposition",
-          "description": "(Spotlight: 8, 8, 8, 5)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoCo",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Reinforcement Learning with Sparse Rewards using Guidance from Offline Demonstration",
-          "description": "(Spotlight: 8, 8, 8, 6, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoCo",
-              "description": ", TurtleBot (Waypoint tracking, Obstacle avoidance)",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Generative Planning for Temporally Coordinated Exploration in Reinforcement Learning",
-          "description": "(Spotlight: 8, 8, 8, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: classic continuous control env",
-              "description": ", CARLA",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2026-03-26T23:13:27Z",
-                "owner": "openai",
-                "repo": "gym",
-                "stars": 37240
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Learning Altruistic Behaviours in Reinforcement Learning without External Rewards",
-          "description": "(Spotlight: 8, 8, 6, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: grid world env, foraging",
-              "description": ", multi-agent tag",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-09-15T17:06:11Z",
-                "owner": "semitable",
-                "repo": "lb-foraging",
-                "stars": 212
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Anti-Concentrated Confidence Bonuses for Scalable Exploration",
-          "description": "(Poster: 8, 6, 5)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: multi-armed bandit",
-              "description": ", Atari",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2026-03-26T23:13:27Z",
-                "owner": "openai",
-                "repo": "gym",
-                "stars": 37240
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Lipschitz-constrained Unsupervised Skill Discovery",
-          "description": "(Poster: 8, 6, 6, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoCo",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "LIGS: Learnable Intrinsic-Reward Generation Selection for Multi-Agent Learning",
-          "description": "(Poster: 8, 6, 5, 5)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: foraging",
-              "description": ", StarCraft II",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-09-15T17:06:11Z",
-                "owner": "semitable",
-                "repo": "lb-foraging",
-                "stars": 212
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Multi-Stage Episodic Control for Strategic Exploration in Text Games",
-          "description": "(Spotlight: 8, 8, 6, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Jericho",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C",
-                "last_commit": "2026-08-14T10:48:36Z",
-                "owner": "microsoft",
-                "repo": "jericho",
-                "stars": 333
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "On the Convergence of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning",
-          "description": "(Poster: 8, 8, 5, 5)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: blackjack",
-              "description": ", cliff Walking",
-              "children": []
-            }
-          ]
-        }
-      ],
-      "title": "ICLR 2022"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Interesting Object, Curious Agent: Learning Task-Agnostic Exploration",
-          "description": "(Oral: 9, 8, 8, 8)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MiniGrid",
-              "description": ", Habitat",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-06T05:37:37Z",
-                "owner": "Farama-Foundation",
-                "repo": "Minigrid",
-                "stars": 2498
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Tactical Optimism and Pessimism for Deep Reinforcement Learning",
-          "description": "(Poster: 9, 7, 6, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoCo",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "MADE: Exploration via Maximizing Deviation from Explored Regions",
-          "description": "(Poster: 7, 7, 6, 5)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MiniGrid",
-              "description": ", DeepMind Control Suite",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-06T05:37:37Z",
-                "owner": "Farama-Foundation",
-                "repo": "Minigrid",
-                "stars": 2498
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Adversarial Intrinsic Motivation for Reinforcement Learning",
-          "description": "(Poster: 7, 7, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Grid World, Fetch Robot (based on MuJoCo",
-              "description": ")",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Information Directed Reward Learning for Reinforcement Learning",
-          "description": "(Poster: 9, 8, 7, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MuJoCo",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Dynamic Bottleneck for Robust Self-Supervised Exploration",
-          "description": "(Poster: 8, 6, 6, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Atari",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2026-03-26T23:13:27Z",
-                "owner": "openai",
-                "repo": "gym",
-                "stars": 37240
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Hierarchical Skills for Efficient Exploration",
-          "description": "(Poster: 7, 6, 6, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Hurdles, Limbo, Stairs, GoalWall PoleBalance (based on MuJoCo",
-              "description": ")",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Cython",
-                "last_commit": "2023-12-10T12:47:21Z",
-                "owner": "openai",
-                "repo": "mujoco-py",
-                "stars": 3144
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "NovelD: A Simple yet Effective Exploration Criterion",
-          "description": "(Poster: 7, 6, 6, 6)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: MiniGrid",
-              "description": ", NetHack, Atari",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-06T05:37:37Z",
-                "owner": "Farama-Foundation",
-                "repo": "Minigrid",
-                "stars": 2498
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Episodic Multi-agent Reinforcement Learning with Curiosity-driven Exploration",
-          "description": "(Poster: 7, 6, 6, 5)",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ExpEnv: Predator-Prey",
-              "description": ", StarCraft II",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-13T18:03:26Z",
-                "owner": "Farama-Foundation",
-                "repo": "PettingZoo",
-                "stars": 3491
-              }
-            }
-          ]
-        }
-      ],
-      "title": "NeurIPS 2021"
-    },
-    {
-      "description": "Our purpose is to provide a starting paper guide to who are interested in exploration methods in RL. If you are interested in contributing, please refer to HERE for instructions in contribution.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Awesome Exploration RL is released under the Apache 2.0 license.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:38:11.678Z",
+    "last_updated": "2026-08-19T12:29:05.633Z",
     "original_repository": "opendilab/awesome-exploration-rl",
+    "original_repository_id": 521861422,
     "original_repository_sha": "bffecd9a5e535994682e82580ec31dac8a87291e",
     "enhanced_repository": "enhansome/enhansome-exploration-rl",
     "enhanced_repository_description": null,
