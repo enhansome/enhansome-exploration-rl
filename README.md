@@ -1025,7 +1025,7 @@ format:
   * Key: continuous action spaces, temporally correlated noise, colored noise
 
 * [Learning About Progress From Experts](https://openreview.net/pdf?id=sKc6fgce1zs) (Spotlight: 8, 8, 6)
-  * ExpEnv: [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,870 | 🐛 140 | 🌐 C | 📅 2026-08-19
+  * ExpEnv: [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,870 | 🐛 139 | 🌐 C | 📅 2026-08-19
   * Jake Bruce, Ankit Anand, Bogdan Mazoure, Rob Fergus
   * Key: the use of expert demonstrations, long-horizon tasks, learn a monotonically increasing function that summarizes progress.
 
@@ -1222,7 +1222,7 @@ format:
   * Key: generative planning method, temporally coordinated exploration, crude initial plan
 
 * [Learning Altruistic Behaviours in Reinforcement Learning without External Rewards](https://arxiv.org/abs/2107.09598) (Spotlight: 8, 8, 6, 6)
-  * ExpEnv: grid world env, [foraging](https://github.com/semitable/lb-foraging) ⭐ 212 | 🐛 14 | 🌐 Python | 📅 2024-09-15, [multi-agent tag](https://github.com/Farama-Foundation/PettingZoo/tree/master/pettingzoo/mpe/simple_tag) ⭐ 3,492 | 🐛 32 | 🌐 Python | 📅 2026-08-13
+  * ExpEnv: grid world env, [foraging](https://github.com/semitable/lb-foraging) ⭐ 212 | 🐛 14 | 🌐 Python | 📅 2024-09-15, [multi-agent tag](https://github.com/Farama-Foundation/PettingZoo/tree/master/pettingzoo/mpe/simple_tag) ⭐ 3,492 | 🐛 33 | 🌐 Python | 📅 2026-08-13
   * Tim Franzmeyer, Mateusz Malinowski, João F. Henriques
   * Key: altruistic behaviour, task-agnostic
 
@@ -1309,12 +1309,12 @@ format:
   * ExpEnv: Two-Agent Weighted Zero-Sum Games
 
 * [NovelD: A Simple yet Effective Exploration Criterion](https://proceedings.neurips.cc/paper/2021/file/d428d070622e0f4363fceae11f4a3576-Paper.pdf) (Poster: 7, 6, 6, 6)
-  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,498 | 🐛 26 | 🌐 Python | 📅 2026-08-06, [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,870 | 🐛 140 | 🌐 C | 📅 2026-08-19, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,498 | 🐛 26 | 🌐 Python | 📅 2026-08-06, [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,870 | 🐛 139 | 🌐 C | 📅 2026-08-19, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Tianjun Zhang, Huazhe Xu, Xiaolong Wang, Yi Wu, Kurt Keutzer, Joseph E. Gonzalez, Yuandong Tian
   * Key: weighting every novel area approximately equally
 
 * [Episodic Multi-agent Reinforcement Learning with Curiosity-driven Exploration](https://arxiv.org/pdf/2111.11032.pdf) (Poster: 7, 6, 6, 5)
-  * ExpEnv: [Predator-Prey](https://github.com/Farama-Foundation/PettingZoo) ⭐ 3,492 | 🐛 32 | 🌐 Python | 📅 2026-08-13, [StarCraft II](https://github.com/oxwhirl/smac) ⭐ 1,364 | 🐛 22 | 🌐 Python | 📅 2024-02-18
+  * ExpEnv: [Predator-Prey](https://github.com/Farama-Foundation/PettingZoo) ⭐ 3,492 | 🐛 33 | 🌐 Python | 📅 2026-08-13, [StarCraft II](https://github.com/oxwhirl/smac) ⭐ 1,364 | 🐛 22 | 🌐 Python | 📅 2024-02-18
   * Lulu Zheng, Jiarui Chen, Jianhao Wang, Jiamin He, Yujing Hu, Yingfeng Chen, Changjie Fan, Yang Gao, Chongjie Zhang
   * Key: episodic Multi-agent, curiosity-driven exploration, prediction errors, episodic memory
 
