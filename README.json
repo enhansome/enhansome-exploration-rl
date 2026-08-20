@@ -41,7 +41,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -63,10 +63,10 @@
                     "archived": false,
                     "id": 47593546,
                     "language": "C",
-                    "last_commit": "2026-08-19T16:37:18Z",
+                    "last_commit": "2026-08-20T13:30:03Z",
                     "owner": "NetHack",
                     "repo": "NetHack",
-                    "stars": 3870
+                    "stars": 3872
                   }
                 }
               ]
@@ -85,7 +85,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -129,7 +129,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -180,7 +180,7 @@
                     "archived": false,
                     "id": 115744122,
                     "language": "Python",
-                    "last_commit": "2026-08-06T00:15:16Z",
+                    "last_commit": "2026-08-20T14:19:29Z",
                     "owner": "google-deepmind",
                     "repo": "dm_control",
                     "stars": 4668
@@ -729,7 +729,7 @@
                     "archived": false,
                     "id": 38127500,
                     "language": "C++",
-                    "last_commit": "2026-08-13T04:24:18Z",
+                    "last_commit": "2026-08-20T17:00:09Z",
                     "owner": "Farama-Foundation",
                     "repo": "ViZDoom",
                     "stars": 2060
@@ -751,7 +751,7 @@
                     "archived": false,
                     "id": 38127500,
                     "language": "C++",
-                    "last_commit": "2026-08-13T04:24:18Z",
+                    "last_commit": "2026-08-20T17:00:09Z",
                     "owner": "Farama-Foundation",
                     "repo": "ViZDoom",
                     "stars": 2060
@@ -905,7 +905,7 @@
                     "archived": false,
                     "id": 38127500,
                     "language": "C++",
-                    "last_commit": "2026-08-13T04:24:18Z",
+                    "last_commit": "2026-08-20T17:00:09Z",
                     "owner": "Farama-Foundation",
                     "repo": "ViZDoom",
                     "stars": 2060
@@ -1121,7 +1121,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:43:37.980Z",
+    "last_updated": "2026-08-20T20:44:17.409Z",
     "original_repository": "opendilab/awesome-exploration-rl",
     "original_repository_id": 521861422,
     "original_repository_sha": "bffecd9a5e535994682e82580ec31dac8a87291e",
