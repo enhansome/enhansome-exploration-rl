@@ -1020,12 +1020,12 @@ format:
   * ExpEnv: Point Maze, Walker, Ant Maze, 3-Block Stacking
 
 * [Pink Noise Is All You Need: Colored Noise Exploration in Deep Reinforcement Learning](https://openreview.net/pdf?id=hQ9V5QN27eS) (Spotlight: 8, 8, 8)
-  * ExpEnv: [DeepMind Control Suite](https://github.com/deepmind/dm_control) ⭐ 4,670 | 🐛 126 | 🌐 Python | 📅 2026-08-20, [Atari](https://github.com/openai/gym) ⚠️ Archived, Adroit hand suite
+  * ExpEnv: [DeepMind Control Suite](https://github.com/deepmind/dm_control) ⭐ 4,670 | 🐛 128 | 🌐 Python | 📅 2026-08-20, [Atari](https://github.com/openai/gym) ⚠️ Archived, Adroit hand suite
   * Onno Eberhard, Jakob Hollenstein, Cristina Pinneri, Georg Martius
   * Key: continuous action spaces, temporally correlated noise, colored noise
 
 * [Learning About Progress From Experts](https://openreview.net/pdf?id=sKc6fgce1zs) (Spotlight: 8, 8, 6)
-  * ExpEnv: [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,876 | 🐛 141 | 🌐 C | 📅 2026-08-24
+  * ExpEnv: [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,876 | 🐛 140 | 🌐 C | 📅 2026-08-24
   * Jake Bruce, Ankit Anand, Bogdan Mazoure, Rob Fergus
   * Key: the use of expert demonstrations, long-horizon tasks, learn a monotonically increasing function that summarizes progress.
 
@@ -1056,7 +1056,7 @@ format:
   * ExpEnv: tabular MDPs, Low-rank MDP
 
 * [Latent State Marginalization as a Low-cost Approach to Improving Exploration](https://openreview.net/pdf?id=b0UksKFcTOL) (Poster: 6, 6, 6)
-  * ExpEnv: [DeepMind Control Suite](https://github.com/deepmind/dm_control) ⭐ 4,670 | 🐛 126 | 🌐 Python | 📅 2026-08-20
+  * ExpEnv: [DeepMind Control Suite](https://github.com/deepmind/dm_control) ⭐ 4,670 | 🐛 128 | 🌐 Python | 📅 2026-08-20
   * Dinghuai Zhang, Aaron Courville, Yoshua Bengio, Qinqing Zheng, Amy Zhang, Ricky T. Q. Chen
   * Key: adoption of latent variable policies within the MaxEnt framework, low-cost marginalization of the latent state
 
@@ -1066,7 +1066,7 @@ format:
   * Key: lifelong intrinsic rewards and episodic intrinsic rewards，the performance of all lifelong-episodic combinations
 
 * [MoDem: Accelerating Visual Model-Based Reinforcement Learning with Demonstrations](https://openreview.net/pdf?id=JdTnc9gjVfJ) (Poster: 8, 6, 6, 6)
-  * ExpEnv: Adroit, Meta-World, [DeepMind Control Suite](https://github.com/deepmind/dm_control) ⭐ 4,670 | 🐛 126 | 🌐 Python | 📅 2026-08-20
+  * ExpEnv: Adroit, Meta-World, [DeepMind Control Suite](https://github.com/deepmind/dm_control) ⭐ 4,670 | 🐛 128 | 🌐 Python | 📅 2026-08-20
   * Nicklas Hansen, Yixin Lin, Hao Su, Xiaolong Wang, Vikash Kumar, Aravind Rajeswaran
   * Key: Key ingredients for leveraging demonstrations in model learning
 
@@ -1165,7 +1165,7 @@ format:
   * ExpEnv: 3State, River Swim
 
 * [Phasic Self-Imitative Reduction for Sparse-Reward Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2206.12030) (Spotlight)
-  * ExpEnv: Sawyer Push, [Ant Maze](https://github.com/deepmind/dm_control) ⭐ 4,670 | 🐛 126 | 🌐 Python | 📅 2026-08-20, Stacking
+  * ExpEnv: Sawyer Push, [Ant Maze](https://github.com/deepmind/dm_control) ⭐ 4,670 | 🐛 128 | 🌐 Python | 📅 2026-08-20, Stacking
   * Yunfei Li, Tian Gao, Jiaqi Yang, Huazhe Xu, Yi Wu
   * Key:  sparse-reward goal-conditioned, RL/SL phasic, task reduction
 
@@ -1217,7 +1217,7 @@ format:
   * Key: learning online with guidance offline
 
 * [Generative Planning for Temporally Coordinated Exploration in Reinforcement Learning](https://openreview.net/pdf?id=YZHES8wIdE) (Spotlight: 8, 8, 8, 6)
-  * ExpEnv: [classic continuous control env](https://github.com/openai/gym) ⚠️ Archived, [CARLA](https://github.com/carla-simulator/carla) ⭐ 14,317 | 🐛 1,194 | 🌐 C++ | 📅 2026-08-24
+  * ExpEnv: [classic continuous control env](https://github.com/openai/gym) ⚠️ Archived, [CARLA](https://github.com/carla-simulator/carla) ⭐ 14,319 | 🐛 1,194 | 🌐 C++ | 📅 2026-08-24
   * Haichao Zhang, Wei Xu, Haonan Yu
   * Key: generative planning method, temporally coordinated exploration, crude initial plan
 
@@ -1242,7 +1242,7 @@ format:
   * Key: multi-agent, coordinated exploration and behaviour, learnable intrinsic-reward generation selection, switching controls
 
 * [Multi-Stage Episodic Control for Strategic Exploration in Text Games](https://openreview.net/forum?id=Ek7PSN7Y77z) (Spotlight: 8, 8, 6, 6)
-  * ExpEnv: [Jericho](https://github.com/microsoft/jericho) ⭐ 333 | 🐛 7 | 🌐 C | 📅 2026-08-14
+  * ExpEnv: [Jericho](https://github.com/microsoft/jericho) ⭐ 334 | 🐛 7 | 🌐 C | 📅 2026-08-14
   * Jens Tuyls, Shunyu Yao, Sham M. Kakade, Karthik R Narasimhan
   * Key: multi-stage approach, policy decomposition
 
@@ -1279,7 +1279,7 @@ format:
   * ExpEnv: None
 
 * [MADE: Exploration via Maximizing Deviation from Explored Regions](https://openreview.net/pdf?id=DTVfEJIL3DB) (Poster: 7, 7, 6, 5)
-  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,498 | 🐛 26 | 🌐 Python | 📅 2026-08-06, [DeepMind Control Suite](https://github.com/deepmind/dm_control) ⭐ 4,670 | 🐛 126 | 🌐 Python | 📅 2026-08-20
+  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,498 | 🐛 26 | 🌐 Python | 📅 2026-08-06, [DeepMind Control Suite](https://github.com/deepmind/dm_control) ⭐ 4,670 | 🐛 128 | 🌐 Python | 📅 2026-08-20
   * Tianjun Zhang, Paria Rashidinejad, Jiantao Jiao, Yuandong Tian, Joseph Gonzalez, Stuart Russell
   * Key: maximizing deviation from the explored regions, intrinsic reward
 
@@ -1309,7 +1309,7 @@ format:
   * ExpEnv: Two-Agent Weighted Zero-Sum Games
 
 * [NovelD: A Simple yet Effective Exploration Criterion](https://proceedings.neurips.cc/paper/2021/file/d428d070622e0f4363fceae11f4a3576-Paper.pdf) (Poster: 7, 6, 6, 6)
-  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,498 | 🐛 26 | 🌐 Python | 📅 2026-08-06, [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,876 | 🐛 141 | 🌐 C | 📅 2026-08-24, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,498 | 🐛 26 | 🌐 Python | 📅 2026-08-06, [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,876 | 🐛 140 | 🌐 C | 📅 2026-08-24, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Tianjun Zhang, Huazhe Xu, Xiaolong Wang, Yi Wu, Kurt Keutzer, Joseph E. Gonzalez, Yuandong Tian
   * Key: weighting every novel area approximately equally
 
@@ -1388,7 +1388,7 @@ format:
   * Key: hash cont, intrinsic motivation
 
 * [EX2: Exploration with Exemplar Models for Deep Reinforcement Learning](https://papers.nips.cc/paper/2017/file/1baff70e2669e8376347efd3a874a341-Paper.pdf) *NeurIPS 2017*
-  * ExpEnv: [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,062 | 🐛 39 | 🌐 C++ | 📅 2026-08-21, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,063 | 🐛 39 | 🌐 C++ | 📅 2026-08-21, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Justin Fu, John D. Co-Reyes, Sergey Levine
   * Key: novelty detection, discriminatively trained exemplar models, implicit density estimation
 
@@ -1398,7 +1398,7 @@ format:
   * ExpEnv: pushing, sliding, pick-and-place, physical robot
 
 * [Curiosity-driven exploration by self-supervised prediction](https://arxiv.org/abs/1705.05363) *ICML 2017*
-  * ExpEnv: [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,062 | 🐛 39 | 🌐 C++ | 📅 2026-08-21, [Super Mario Bros](https://supermario-game.com/)
+  * ExpEnv: [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,063 | 🐛 39 | 🌐 C++ | 📅 2026-08-21, [Super Mario Bros](https://supermario-game.com/)
   * Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell
   * Key: curiosity, self-supervised inverse dynamics model
 
@@ -1433,7 +1433,7 @@ format:
   * Key: maximizing an information theoretic objective, unsupervised emergence of diverse skills
 
 * [Episodic Curiosity through Reachability](https://arxiv.org/abs/1810.02274) *ICLR 2019*
-  * ExpEnv: [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,062 | 🐛 39 | 🌐 C++ | 📅 2026-08-21, [DMLab](https://github.com/deepmind/lab) ⭐ 7,373 | 🐛 66 | 🌐 C | 📅 2023-01-04, [MuJoCo](https://github.com/openai/mujoco-py) ⚠️ Archived
+  * ExpEnv: [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,063 | 🐛 39 | 🌐 C++ | 📅 2026-08-21, [DMLab](https://github.com/deepmind/lab) ⭐ 7,373 | 🐛 66 | 🌐 C | 📅 2023-01-04, [MuJoCo](https://github.com/openai/mujoco-py) ⚠️ Archived
   * Nikolay Savinov, Anton Raichuk, Rapha¨el Marinier, Damien Vincent, Marc Pollefeys, Timothy Lillicrap, Sylvain Gelly
   * Key: curiosity, episodic memory, how many environment steps it takes to reach the current observation
 

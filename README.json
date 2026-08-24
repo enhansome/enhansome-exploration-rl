@@ -61,7 +61,7 @@
                 "archived": false,
                 "id": 47593546,
                 "language": "C",
-                "last_commit": "2026-08-24T11:45:04Z",
+                "last_commit": "2026-08-24T16:10:04Z",
                 "owner": "NetHack",
                 "repo": "NetHack",
                 "stars": 3876
@@ -406,7 +406,7 @@
                 "last_commit": "2026-08-14T10:48:36Z",
                 "owner": "microsoft",
                 "repo": "jericho",
-                "stars": 333
+                "stars": 334
               }
             }
           ]
@@ -726,7 +726,7 @@
                 "last_commit": "2026-08-21T07:29:58Z",
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
-                "stars": 2062
+                "stars": 2063
               }
             }
           ]
@@ -748,7 +748,7 @@
                 "last_commit": "2026-08-21T07:29:58Z",
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
-                "stars": 2062
+                "stars": 2063
               }
             }
           ]
@@ -902,7 +902,7 @@
                 "last_commit": "2026-08-21T07:29:58Z",
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
-                "stars": 2062
+                "stars": 2063
               }
             }
           ]
@@ -1110,7 +1110,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:20:57.652Z",
+    "last_updated": "2026-08-24T20:46:23.451Z",
     "original_repository": "opendilab/awesome-exploration-rl",
     "original_repository_id": 521861422,
     "original_repository_sha": "bffecd9a5e535994682e82580ec31dac8a87291e",
