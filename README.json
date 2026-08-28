@@ -20,8 +20,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -42,8 +43,9 @@
                 "last_commit": "2026-08-20T14:19:29Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4672
-              }
+                "stars": 4674
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -64,8 +66,9 @@
                 "last_commit": "2026-08-27T02:15:04Z",
                 "owner": "NetHack",
                 "repo": "NetHack",
-                "stars": 3881
-              }
+                "stars": 3882
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -86,8 +89,9 @@
                 "last_commit": "2026-08-20T14:19:29Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4672
-              }
+                "stars": 4674
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -108,8 +112,9 @@
                 "last_commit": "2026-08-24T22:06:07Z",
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2500
-              }
+                "stars": 2501
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -130,8 +135,9 @@
                 "last_commit": "2026-08-20T14:19:29Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4672
-              }
+                "stars": 4674
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         }
@@ -158,8 +164,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -180,8 +187,9 @@
                 "last_commit": "2026-08-20T14:19:29Z",
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4672
-              }
+                "stars": 4674
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         }
@@ -208,8 +216,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -230,8 +239,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -253,7 +263,8 @@
                 "owner": "openai",
                 "repo": "mujoco-py",
                 "stars": 3142
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -275,7 +286,8 @@
                 "owner": "openai",
                 "repo": "mujoco-py",
                 "stars": 3142
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -296,8 +308,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -319,7 +332,8 @@
                 "owner": "semitable",
                 "repo": "lb-foraging",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -340,8 +354,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -363,7 +378,8 @@
                 "owner": "openai",
                 "repo": "mujoco-py",
                 "stars": 3142
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -385,7 +401,8 @@
                 "owner": "semitable",
                 "repo": "lb-foraging",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -407,7 +424,8 @@
                 "owner": "microsoft",
                 "repo": "jericho",
                 "stars": 335
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         }
@@ -434,8 +452,9 @@
                 "last_commit": "2026-08-24T22:06:07Z",
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2500
-              }
+                "stars": 2501
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -457,7 +476,8 @@
                 "owner": "openai",
                 "repo": "mujoco-py",
                 "stars": 3142
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -478,8 +498,9 @@
                 "last_commit": "2026-08-24T22:06:07Z",
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2500
-              }
+                "stars": 2501
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -501,7 +522,8 @@
                 "owner": "openai",
                 "repo": "mujoco-py",
                 "stars": 3142
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -523,7 +545,8 @@
                 "owner": "openai",
                 "repo": "mujoco-py",
                 "stars": 3142
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -544,8 +567,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -567,7 +591,8 @@
                 "owner": "openai",
                 "repo": "mujoco-py",
                 "stars": 3142
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -588,8 +613,9 @@
                 "last_commit": "2026-08-24T22:06:07Z",
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2500
-              }
+                "stars": 2501
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -611,7 +637,8 @@
                 "owner": "Farama-Foundation",
                 "repo": "PettingZoo",
                 "stars": 3498
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         }
@@ -638,8 +665,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -660,8 +688,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -683,7 +712,8 @@
                 "owner": "rll",
                 "repo": "rllab",
                 "stars": 3078
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -705,7 +735,8 @@
                 "owner": "rll",
                 "repo": "rllab",
                 "stars": 3078
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -727,7 +758,8 @@
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
                 "stars": 2064
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -749,7 +781,8 @@
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
                 "stars": 2064
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -770,8 +803,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -792,8 +826,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -814,8 +849,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -837,7 +873,8 @@
                 "owner": "openai",
                 "repo": "mujoco-py",
                 "stars": 3142
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -858,8 +895,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -881,7 +919,8 @@
                 "owner": "openai",
                 "repo": "mujoco-py",
                 "stars": 3142
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -903,7 +942,8 @@
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
                 "stars": 2064
-              }
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -924,8 +964,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -946,8 +987,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -968,8 +1010,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -990,8 +1033,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -1012,8 +1056,9 @@
                 "last_commit": "2026-08-24T22:06:07Z",
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2500
-              }
+                "stars": 2501
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -1034,8 +1079,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -1056,8 +1102,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -1078,8 +1125,9 @@
                 "last_commit": "2026-08-24T22:06:07Z",
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2500
-              }
+                "stars": 2501
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         },
@@ -1100,8 +1148,9 @@
                 "last_commit": "2026-03-26T23:13:27Z",
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37248
-              }
+                "stars": 37246
+              },
+              "first_seen": "2026-08-28T04:21:28.320Z"
             }
           ]
         }
@@ -1110,7 +1159,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:42.271Z",
+    "last_updated": "2026-08-28T04:21:28.320Z",
     "original_repository_info": {
       "archived": false,
       "id": 521861422,
