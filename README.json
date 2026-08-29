@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -38,12 +43,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.",
+                "homepage": null,
                 "id": 115744122,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T14:19:29Z",
+                "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4674
+                "stars": 4674,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "machine-learning",
+                  "mujoco",
+                  "neural-networks",
+                  "physics-simulation",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -61,12 +79,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official NetHack Git Repository",
+                "homepage": null,
                 "id": 47593546,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-28T21:00:04Z",
+                "open_issues": 140,
                 "owner": "NetHack",
                 "repo": "NetHack",
-                "stars": 3885
+                "stars": 3885,
+                "topics": [
+                  "c",
+                  "game",
+                  "roguelike"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -84,12 +111,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.",
+                "homepage": null,
                 "id": 115744122,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T14:19:29Z",
+                "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4674
+                "stars": 4674,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "machine-learning",
+                  "mujoco",
+                  "neural-networks",
+                  "physics-simulation",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -107,12 +147,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and easily configurable grid world environments for reinforcement learning",
+                "homepage": "https://minigrid.farama.org/",
                 "id": 114143182,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T22:06:07Z",
+                "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2501
+                "stars": 2501,
+                "topics": [
+                  "gridworld-environment",
+                  "gymnasium",
+                  "gymnasium-environment"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -130,12 +179,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.",
+                "homepage": null,
                 "id": 115744122,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T14:19:29Z",
+                "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4674
+                "stars": 4674,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "machine-learning",
+                  "mujoco",
+                  "neural-networks",
+                  "physics-simulation",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -159,12 +221,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -182,12 +249,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.",
+                "homepage": null,
                 "id": 115744122,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T14:19:29Z",
+                "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4674
+                "stars": 4674,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "machine-learning",
+                  "mujoco",
+                  "neural-networks",
+                  "physics-simulation",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -211,12 +291,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -234,12 +319,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -257,12 +347,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                "homepage": null,
                 "id": 56986017,
                 "language": "Cython",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-10T12:47:21Z",
+                "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3142
+                "stars": 3142,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -280,12 +375,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                "homepage": null,
                 "id": 56986017,
                 "language": "Cython",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-10T12:47:21Z",
+                "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3142
+                "stars": 3142,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -303,12 +403,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -326,12 +431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Level-based Foraging (LBF): A multi-agent environment for RL",
+                "homepage": null,
                 "id": 139773449,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-15T17:06:11Z",
+                "open_issues": 14,
                 "owner": "semitable",
                 "repo": "lb-foraging",
-                "stars": 214
+                "stars": 214,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -349,12 +459,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -372,12 +487,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                "homepage": null,
                 "id": 56986017,
                 "language": "Cython",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-10T12:47:21Z",
+                "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3142
+                "stars": 3142,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -395,12 +515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Level-based Foraging (LBF): A multi-agent environment for RL",
+                "homepage": null,
                 "id": 139773449,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-15T17:06:11Z",
+                "open_issues": 14,
                 "owner": "semitable",
                 "repo": "lb-foraging",
-                "stars": 214
+                "stars": 214,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -418,12 +543,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A learning environment for man-made Interactive Fiction games.",
+                "homepage": null,
                 "id": 151300728,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-14T10:48:36Z",
+                "open_issues": 7,
                 "owner": "microsoft",
                 "repo": "jericho",
-                "stars": 335
+                "stars": 335,
+                "topics": [
+                  "interactive-fiction",
+                  "reinforcement-learning",
+                  "text-based-adventure"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -447,12 +581,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and easily configurable grid world environments for reinforcement learning",
+                "homepage": "https://minigrid.farama.org/",
                 "id": 114143182,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T22:06:07Z",
+                "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2501
+                "stars": 2501,
+                "topics": [
+                  "gridworld-environment",
+                  "gymnasium",
+                  "gymnasium-environment"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -470,12 +613,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                "homepage": null,
                 "id": 56986017,
                 "language": "Cython",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-10T12:47:21Z",
+                "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3142
+                "stars": 3142,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -493,12 +641,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and easily configurable grid world environments for reinforcement learning",
+                "homepage": "https://minigrid.farama.org/",
                 "id": 114143182,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T22:06:07Z",
+                "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2501
+                "stars": 2501,
+                "topics": [
+                  "gridworld-environment",
+                  "gymnasium",
+                  "gymnasium-environment"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -516,12 +673,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                "homepage": null,
                 "id": 56986017,
                 "language": "Cython",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-10T12:47:21Z",
+                "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3142
+                "stars": 3142,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -539,12 +701,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                "homepage": null,
                 "id": 56986017,
                 "language": "Cython",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-10T12:47:21Z",
+                "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3142
+                "stars": 3142,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -562,12 +729,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -585,12 +757,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                "homepage": null,
                 "id": 56986017,
                 "language": "Cython",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-10T12:47:21Z",
+                "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3142
+                "stars": 3142,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -608,12 +785,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and easily configurable grid world environments for reinforcement learning",
+                "homepage": "https://minigrid.farama.org/",
                 "id": 114143182,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T22:06:07Z",
+                "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2501
+                "stars": 2501,
+                "topics": [
+                  "gridworld-environment",
+                  "gymnasium",
+                  "gymnasium-environment"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -631,12 +817,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A standard API for multi-agent reinforcement learning environments, with popular reference environments and related utilities",
+                "homepage": "https://pettingzoo.farama.org",
                 "id": 235012937,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-13T18:03:26Z",
+                "open_issues": 45,
                 "owner": "Farama-Foundation",
                 "repo": "PettingZoo",
-                "stars": 3498
+                "stars": 3498,
+                "topics": [
+                  "api",
+                  "gymnasium",
+                  "multi-agent-reinforcement-learning",
+                  "multiagent-reinforcement-learning",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -660,12 +857,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -683,12 +885,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -706,12 +913,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rllab is a framework for developing and evaluating reinforcement learning algorithms, fully compatible with OpenAI Gym.",
+                "homepage": null,
                 "id": 56792704,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-10T20:57:52Z",
+                "open_issues": 117,
                 "owner": "rll",
                 "repo": "rllab",
-                "stars": 3078
+                "stars": 3078,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -729,12 +941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rllab is a framework for developing and evaluating reinforcement learning algorithms, fully compatible with OpenAI Gym.",
+                "homepage": null,
                 "id": 56792704,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-10T20:57:52Z",
+                "open_issues": 117,
                 "owner": "rll",
                 "repo": "rllab",
-                "stars": 3078
+                "stars": 3078,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -752,12 +969,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reinforcement Learning environments based on the 1993 game Doom :godmode:",
+                "homepage": "https://vizdoom.farama.org/",
                 "id": 38127500,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-21T07:29:58Z",
+                "open_issues": 39,
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
-                "stars": 2064
+                "stars": 2064,
+                "topics": [
+                  "deep-learning",
+                  "doom",
+                  "examples",
+                  "gymnasium",
+                  "gymnasium-environment",
+                  "python",
+                  "reinforcement-learning",
+                  "vizdoom"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -775,12 +1006,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reinforcement Learning environments based on the 1993 game Doom :godmode:",
+                "homepage": "https://vizdoom.farama.org/",
                 "id": 38127500,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-21T07:29:58Z",
+                "open_issues": 39,
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
-                "stars": 2064
+                "stars": 2064,
+                "topics": [
+                  "deep-learning",
+                  "doom",
+                  "examples",
+                  "gymnasium",
+                  "gymnasium-environment",
+                  "python",
+                  "reinforcement-learning",
+                  "vizdoom"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -798,12 +1043,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -821,12 +1071,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -844,12 +1099,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -867,12 +1127,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                "homepage": null,
                 "id": 56986017,
                 "language": "Cython",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-10T12:47:21Z",
+                "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3142
+                "stars": 3142,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -890,12 +1155,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -913,12 +1183,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",
+                "homepage": null,
                 "id": 56986017,
                 "language": "Cython",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-10T12:47:21Z",
+                "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3142
+                "stars": 3142,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -936,12 +1211,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reinforcement Learning environments based on the 1993 game Doom :godmode:",
+                "homepage": "https://vizdoom.farama.org/",
                 "id": 38127500,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-21T07:29:58Z",
+                "open_issues": 39,
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
-                "stars": 2064
+                "stars": 2064,
+                "topics": [
+                  "deep-learning",
+                  "doom",
+                  "examples",
+                  "gymnasium",
+                  "gymnasium-environment",
+                  "python",
+                  "reinforcement-learning",
+                  "vizdoom"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -959,12 +1248,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -982,12 +1276,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -1005,12 +1304,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -1028,12 +1332,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -1051,12 +1360,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and easily configurable grid world environments for reinforcement learning",
+                "homepage": "https://minigrid.farama.org/",
                 "id": 114143182,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T22:06:07Z",
+                "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2501
+                "stars": 2501,
+                "topics": [
+                  "gridworld-environment",
+                  "gymnasium",
+                  "gymnasium-environment"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -1074,12 +1392,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -1097,12 +1420,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -1120,12 +1448,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and easily configurable grid world environments for reinforcement learning",
+                "homepage": "https://minigrid.farama.org/",
                 "id": 114143182,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T22:06:07Z",
+                "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2501
+                "stars": 2501,
+                "topics": [
+                  "gridworld-environment",
+                  "gymnasium",
+                  "gymnasium-environment"
+                ]
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -1143,12 +1480,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                "homepage": "https://www.gymlibrary.dev",
                 "id": 57222302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-26T23:13:27Z",
+                "open_issues": 128,
                 "owner": "openai",
                 "repo": "gym",
-                "stars": 37245
+                "stars": 37244,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
             }
@@ -1159,15 +1501,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:48:04.456Z",
+    "last_updated": "2026-08-29T04:40:18.448Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome exploration RL resources (continually updated)",
+      "homepage": null,
       "id": 521861422,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-05-21T07:59:30Z",
+      "open_issues": 0,
       "owner": "opendilab",
       "repo": "awesome-exploration-rl",
-      "stars": 723
+      "stars": 723,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "delayed-rewards",
+        "exploration",
+        "exploration-exploitation",
+        "exploratory",
+        "hard-exploration",
+        "reinforcement-learning",
+        "reinforcement-learning-algorithms",
+        "sparse-reward-algorithms"
+      ]
     },
     "original_repository_sha": "bffecd9a5e535994682e82580ec31dac8a87291e",
     "enhanced_repository": "enhansome/enhansome-exploration-rl",
