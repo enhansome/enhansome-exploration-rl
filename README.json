@@ -52,7 +52,7 @@
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4677,
+                "stars": 4679,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -84,8 +84,8 @@
                 "id": 47593546,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-08-30T18:37:17Z",
-                "open_issues": 141,
+                "last_commit": "2026-08-31T12:10:04Z",
+                "open_issues": 142,
                 "owner": "NetHack",
                 "repo": "NetHack",
                 "stars": 3887,
@@ -120,7 +120,7 @@
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4677,
+                "stars": 4679,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -153,7 +153,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-24T22:06:07Z",
-                "open_issues": 23,
+                "open_issues": 22,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
                 "stars": 2502,
@@ -188,7 +188,7 @@
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4677,
+                "stars": 4679,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -258,7 +258,7 @@
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4677,
+                "stars": 4679,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -587,7 +587,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-24T22:06:07Z",
-                "open_issues": 23,
+                "open_issues": 22,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
                 "stars": 2502,
@@ -647,7 +647,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-24T22:06:07Z",
-                "open_issues": 23,
+                "open_issues": 22,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
                 "stars": 2502,
@@ -791,7 +791,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-24T22:06:07Z",
-                "open_issues": 23,
+                "open_issues": 22,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
                 "stars": 2502,
@@ -823,7 +823,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-13T18:03:26Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "Farama-Foundation",
                 "repo": "PettingZoo",
                 "stars": 3502,
@@ -922,7 +922,7 @@
                 "open_issues": 117,
                 "owner": "rll",
                 "repo": "rllab",
-                "stars": 3078,
+                "stars": 3079,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
@@ -950,7 +950,7 @@
                 "open_issues": 117,
                 "owner": "rll",
                 "repo": "rllab",
-                "stars": 3078,
+                "stars": 3079,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
@@ -978,7 +978,7 @@
                 "open_issues": 39,
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
-                "stars": 2065,
+                "stars": 2064,
                 "topics": [
                   "deep-learning",
                   "doom",
@@ -1015,7 +1015,7 @@
                 "open_issues": 39,
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
-                "stars": 2065,
+                "stars": 2064,
                 "topics": [
                   "deep-learning",
                   "doom",
@@ -1220,7 +1220,7 @@
                 "open_issues": 39,
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
-                "stars": 2065,
+                "stars": 2064,
                 "topics": [
                   "deep-learning",
                   "doom",
@@ -1366,7 +1366,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-24T22:06:07Z",
-                "open_issues": 23,
+                "open_issues": 22,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
                 "stars": 2502,
@@ -1454,7 +1454,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-24T22:06:07Z",
-                "open_issues": 23,
+                "open_issues": 22,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
                 "stars": 2502,
@@ -1501,7 +1501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:42:58.730Z",
+    "last_updated": "2026-08-31T23:49:26.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome exploration RL resources (continually updated)",
@@ -1513,7 +1513,7 @@
       "open_issues": 0,
       "owner": "opendilab",
       "repo": "awesome-exploration-rl",
-      "stars": 723,
+      "stars": 724,
       "topics": [
         "awesome",
         "awesome-list",
