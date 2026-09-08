@@ -1025,7 +1025,7 @@ format:
   * Key: continuous action spaces, temporally correlated noise, colored noise
 
 * [Learning About Progress From Experts](https://openreview.net/pdf?id=sKc6fgce1zs) (Spotlight: 8, 8, 6)
-  * ExpEnv: [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,896 | 🐛 148 | 🌐 C | 📅 2026-09-06
+  * ExpEnv: [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,897 | 🐛 148 | 🌐 C | 📅 2026-09-08
   * Jake Bruce, Ankit Anand, Bogdan Mazoure, Rob Fergus
   * Key: the use of expert demonstrations, long-horizon tasks, learn a monotonically increasing function that summarizes progress.
 
@@ -1222,7 +1222,7 @@ format:
   * Key: generative planning method, temporally coordinated exploration, crude initial plan
 
 * [Learning Altruistic Behaviours in Reinforcement Learning without External Rewards](https://arxiv.org/abs/2107.09598) (Spotlight: 8, 8, 6, 6)
-  * ExpEnv: grid world env, [foraging](https://github.com/semitable/lb-foraging) ⭐ 214 | 🐛 14 | 🌐 Python | 📅 2024-09-15, [multi-agent tag](https://github.com/Farama-Foundation/PettingZoo/tree/master/pettingzoo/mpe/simple_tag) ⭐ 3,508 | 🐛 36 | 🌐 Python | 📅 2026-09-05
+  * ExpEnv: grid world env, [foraging](https://github.com/semitable/lb-foraging) ⭐ 214 | 🐛 14 | 🌐 Python | 📅 2024-09-15, [multi-agent tag](https://github.com/Farama-Foundation/PettingZoo/tree/master/pettingzoo/mpe/simple_tag) ⭐ 3,510 | 🐛 37 | 🌐 Python | 📅 2026-09-05
   * Tim Franzmeyer, Mateusz Malinowski, João F. Henriques
   * Key: altruistic behaviour, task-agnostic
 
@@ -1242,7 +1242,7 @@ format:
   * Key: multi-agent, coordinated exploration and behaviour, learnable intrinsic-reward generation selection, switching controls
 
 * [Multi-Stage Episodic Control for Strategic Exploration in Text Games](https://openreview.net/forum?id=Ek7PSN7Y77z) (Spotlight: 8, 8, 6, 6)
-  * ExpEnv: [Jericho](https://github.com/microsoft/jericho) ⭐ 336 | 🐛 7 | 🌐 C | 📅 2026-08-14
+  * ExpEnv: [Jericho](https://github.com/microsoft/jericho) ⭐ 336 | 🐛 8 | 🌐 C | 📅 2026-08-14
   * Jens Tuyls, Shunyu Yao, Sham M. Kakade, Karthik R Narasimhan
   * Key: multi-stage approach, policy decomposition
 
@@ -1259,7 +1259,7 @@ format:
 <summary>(Click to Collapse)</summary>
 
 * [Interesting Object, Curious Agent: Learning Task-Agnostic Exploration](https://arxiv.org/abs/2111.13119) (Oral: 9, 8, 8, 8)
-  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,506 | 🐛 24 | 🌐 Python | 📅 2026-09-05, [Habitat](https://github.com/facebookresearch/habitat-sim) ⭐ 3,815 | 🐛 269 | 🌐 C++ | 📅 2026-07-21
+  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,506 | 🐛 24 | 🌐 Python | 📅 2026-09-05, [Habitat](https://github.com/facebookresearch/habitat-sim) ⭐ 3,817 | 🐛 268 | 🌐 C++ | 📅 2026-07-21
   * Simone Parisi, Victoria Dean,Deepak Pathak, Abhinav Gupta
   * Key: task-agnostic exploration, agent-centric component, environment-centric component
 
@@ -1309,12 +1309,12 @@ format:
   * ExpEnv: Two-Agent Weighted Zero-Sum Games
 
 * [NovelD: A Simple yet Effective Exploration Criterion](https://proceedings.neurips.cc/paper/2021/file/d428d070622e0f4363fceae11f4a3576-Paper.pdf) (Poster: 7, 6, 6, 6)
-  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,506 | 🐛 24 | 🌐 Python | 📅 2026-09-05, [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,896 | 🐛 148 | 🌐 C | 📅 2026-09-06, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,506 | 🐛 24 | 🌐 Python | 📅 2026-09-05, [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,897 | 🐛 148 | 🌐 C | 📅 2026-09-08, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Tianjun Zhang, Huazhe Xu, Xiaolong Wang, Yi Wu, Kurt Keutzer, Joseph E. Gonzalez, Yuandong Tian
   * Key: weighting every novel area approximately equally
 
 * [Episodic Multi-agent Reinforcement Learning with Curiosity-driven Exploration](https://arxiv.org/pdf/2111.11032.pdf) (Poster: 7, 6, 6, 5)
-  * ExpEnv: [Predator-Prey](https://github.com/Farama-Foundation/PettingZoo) ⭐ 3,508 | 🐛 36 | 🌐 Python | 📅 2026-09-05, [StarCraft II](https://github.com/oxwhirl/smac) ⭐ 1,367 | 🐛 22 | 🌐 Python | 📅 2024-02-18
+  * ExpEnv: [Predator-Prey](https://github.com/Farama-Foundation/PettingZoo) ⭐ 3,510 | 🐛 37 | 🌐 Python | 📅 2026-09-05, [StarCraft II](https://github.com/oxwhirl/smac) ⭐ 1,367 | 🐛 22 | 🌐 Python | 📅 2024-02-18
   * Lulu Zheng, Jiarui Chen, Jianhao Wang, Jiamin He, Yujing Hu, Yingfeng Chen, Changjie Fan, Yang Gao, Chongjie Zhang
   * Key: episodic Multi-agent, curiosity-driven exploration, prediction errors, episodic memory
 
@@ -1388,7 +1388,7 @@ format:
   * Key: hash cont, intrinsic motivation
 
 * [EX2: Exploration with Exemplar Models for Deep Reinforcement Learning](https://papers.nips.cc/paper/2017/file/1baff70e2669e8376347efd3a874a341-Paper.pdf) *NeurIPS 2017*
-  * ExpEnv: [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,065 | 🐛 39 | 🌐 C++ | 📅 2026-09-06, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,065 | 🐛 39 | 🌐 C++ | 📅 2026-09-08, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Justin Fu, John D. Co-Reyes, Sergey Levine
   * Key: novelty detection, discriminatively trained exemplar models, implicit density estimation
 
@@ -1398,7 +1398,7 @@ format:
   * ExpEnv: pushing, sliding, pick-and-place, physical robot
 
 * [Curiosity-driven exploration by self-supervised prediction](https://arxiv.org/abs/1705.05363) *ICML 2017*
-  * ExpEnv: [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,065 | 🐛 39 | 🌐 C++ | 📅 2026-09-06, [Super Mario Bros](https://supermario-game.com/)
+  * ExpEnv: [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,065 | 🐛 39 | 🌐 C++ | 📅 2026-09-08, [Super Mario Bros](https://supermario-game.com/)
   * Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell
   * Key: curiosity, self-supervised inverse dynamics model
 
@@ -1433,7 +1433,7 @@ format:
   * Key: maximizing an information theoretic objective, unsupervised emergence of diverse skills
 
 * [Episodic Curiosity through Reachability](https://arxiv.org/abs/1810.02274) *ICLR 2019*
-  * ExpEnv: [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,065 | 🐛 39 | 🌐 C++ | 📅 2026-09-06, [DMLab](https://github.com/deepmind/lab) ⭐ 7,372 | 🐛 66 | 🌐 C | 📅 2023-01-04, [MuJoCo](https://github.com/openai/mujoco-py) ⚠️ Archived
+  * ExpEnv: [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,065 | 🐛 39 | 🌐 C++ | 📅 2026-09-08, [DMLab](https://github.com/deepmind/lab) ⭐ 7,373 | 🐛 66 | 🌐 C | 📅 2023-01-04, [MuJoCo](https://github.com/openai/mujoco-py) ⚠️ Archived
   * Nikolay Savinov, Anton Raichuk, Rapha¨el Marinier, Damien Vincent, Marc Pollefeys, Timothy Lillicrap, Sylvain Gelly
   * Key: curiosity, episodic memory, how many environment steps it takes to reach the current observation
 
@@ -1502,4 +1502,4 @@ Awesome Exploration RL is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
