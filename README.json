@@ -52,7 +52,7 @@
                 "open_issues": 129,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4690,
+                "stars": 4692,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -120,7 +120,7 @@
                 "open_issues": 129,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4690,
+                "stars": 4692,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -156,7 +156,7 @@
                 "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2508,
+                "stars": 2509,
                 "topics": [
                   "gridworld-environment",
                   "gymnasium",
@@ -188,7 +188,7 @@
                 "open_issues": 129,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4690,
+                "stars": 4692,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -258,7 +258,7 @@
                 "open_issues": 129,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4690,
+                "stars": 4692,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -440,7 +440,7 @@
                 "open_issues": 14,
                 "owner": "semitable",
                 "repo": "lb-foraging",
-                "stars": 214,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
@@ -524,7 +524,7 @@
                 "open_issues": 14,
                 "owner": "semitable",
                 "repo": "lb-foraging",
-                "stars": 214,
+                "stars": 215,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
@@ -590,7 +590,7 @@
                 "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2508,
+                "stars": 2509,
                 "topics": [
                   "gridworld-environment",
                   "gymnasium",
@@ -650,7 +650,7 @@
                 "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2508,
+                "stars": 2509,
                 "topics": [
                   "gridworld-environment",
                   "gymnasium",
@@ -794,7 +794,7 @@
                 "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2508,
+                "stars": 2509,
                 "topics": [
                   "gridworld-environment",
                   "gymnasium",
@@ -823,10 +823,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-05T20:29:53Z",
-                "open_issues": 41,
+                "open_issues": 44,
                 "owner": "Farama-Foundation",
                 "repo": "PettingZoo",
-                "stars": 3514,
+                "stars": 3515,
                 "topics": [
                   "api",
                   "gymnasium",
@@ -974,11 +974,11 @@
                 "id": 38127500,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-13T08:47:05Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-13T22:44:12Z",
+                "open_issues": 38,
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
-                "stars": 2069,
+                "stars": 2072,
                 "topics": [
                   "deep-learning",
                   "doom",
@@ -1011,11 +1011,11 @@
                 "id": 38127500,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-13T08:47:05Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-13T22:44:12Z",
+                "open_issues": 38,
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
-                "stars": 2069,
+                "stars": 2072,
                 "topics": [
                   "deep-learning",
                   "doom",
@@ -1216,11 +1216,11 @@
                 "id": 38127500,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-13T08:47:05Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-13T22:44:12Z",
+                "open_issues": 38,
                 "owner": "Farama-Foundation",
                 "repo": "ViZDoom",
-                "stars": 2069,
+                "stars": 2072,
                 "topics": [
                   "deep-learning",
                   "doom",
@@ -1369,7 +1369,7 @@
                 "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2508,
+                "stars": 2509,
                 "topics": [
                   "gridworld-environment",
                   "gymnasium",
@@ -1457,7 +1457,7 @@
                 "open_issues": 23,
                 "owner": "Farama-Foundation",
                 "repo": "Minigrid",
-                "stars": 2508,
+                "stars": 2509,
                 "topics": [
                   "gridworld-environment",
                   "gymnasium",
@@ -1501,7 +1501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T22:23:15.192Z",
+    "last_updated": "2026-09-14T23:06:35.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome exploration RL resources (continually updated)",
