@@ -84,11 +84,11 @@
                 "id": 47593546,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-09-13T12:45:03Z",
-                "open_issues": 146,
+                "last_commit": "2026-09-17T21:37:16Z",
+                "open_issues": 145,
                 "owner": "NetHack",
                 "repo": "NetHack",
-                "stars": 3911,
+                "stars": 3913,
                 "topics": [
                   "c",
                   "game",
@@ -356,7 +356,7 @@
                 "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3145,
+                "stars": 3146,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
@@ -384,7 +384,7 @@
                 "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3145,
+                "stars": 3146,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
@@ -496,7 +496,7 @@
                 "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3145,
+                "stars": 3146,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
@@ -622,7 +622,7 @@
                 "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3145,
+                "stars": 3146,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
@@ -682,7 +682,7 @@
                 "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3145,
+                "stars": 3146,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
@@ -710,7 +710,7 @@
                 "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3145,
+                "stars": 3146,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
@@ -766,7 +766,7 @@
                 "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3145,
+                "stars": 3146,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
@@ -822,11 +822,11 @@
                 "id": 235012937,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-05T20:29:53Z",
-                "open_issues": 45,
+                "last_commit": "2026-09-17T19:55:24Z",
+                "open_issues": 34,
                 "owner": "Farama-Foundation",
                 "repo": "PettingZoo",
-                "stars": 3515,
+                "stars": 3516,
                 "topics": [
                   "api",
                   "gymnasium",
@@ -1136,7 +1136,7 @@
                 "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3145,
+                "stars": 3146,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1192,7 +1192,7 @@
                 "open_issues": 427,
                 "owner": "openai",
                 "repo": "mujoco-py",
-                "stars": 3145,
+                "stars": 3146,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1501,7 +1501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T22:54:29.998Z",
+    "last_updated": "2026-09-17T22:50:31.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome exploration RL resources (continually updated)",
@@ -1513,7 +1513,7 @@
       "open_issues": 0,
       "owner": "opendilab",
       "repo": "awesome-exploration-rl",
-      "stars": 724,
+      "stars": 725,
       "topics": [
         "awesome",
         "awesome-list",
