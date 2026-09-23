@@ -8,7 +8,7 @@
   The repository will be continuously updated to track the frontier of ERL. Welcome to follow and star!
 
 * The balance of **exploration and exploitation** is one of the most central problems in reinforcement learning.
-  In order to give readers an intuitive feeling for exploration, we provide a visualization of a typical hard exploration environment in [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,514 | 🐛 25 | 🌐 Python | 📅 2026-09-10 below.
+  In order to give readers an intuitive feeling for exploration, we provide a visualization of a typical hard exploration environment in [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,515 | 🐛 25 | 🌐 Python | 📅 2026-09-10 below.
   In this task, a series of actions to achieve the goal often require dozens or even hundreds of steps, in which the agent needs to fully explore different state-action spaces
   in order to learn the skills required to achieve the goal.
 
@@ -1025,7 +1025,7 @@ format:
   * Key: continuous action spaces, temporally correlated noise, colored noise
 
 * [Learning About Progress From Experts](https://openreview.net/pdf?id=sKc6fgce1zs) (Spotlight: 8, 8, 6)
-  * ExpEnv: [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,918 | 🐛 150 | 🌐 C | 📅 2026-09-22
+  * ExpEnv: [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,919 | 🐛 150 | 🌐 C | 📅 2026-09-23
   * Jake Bruce, Ankit Anand, Bogdan Mazoure, Rob Fergus
   * Key: the use of expert demonstrations, long-horizon tasks, learn a monotonically increasing function that summarizes progress.
 
@@ -1061,7 +1061,7 @@ format:
   * Key: adoption of latent variable policies within the MaxEnt framework, low-cost marginalization of the latent state
 
 * [Revisiting Curiosity for Exploration in Procedurally Generated Environments](https://openreview.net/pdf?id=j3GK3_xZydY) (Poster: 8, 8, 5, 3, 3)
-  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,514 | 🐛 25 | 🌐 Python | 📅 2026-09-10
+  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,515 | 🐛 25 | 🌐 Python | 📅 2026-09-10
   * Kaixin Wang, Kuangqi Zhou, Bingyi Kang, Jiashi Feng, Shuicheng YAN
   * Key: lifelong intrinsic rewards and episodic intrinsic rewards，the performance of all lifelong-episodic combinations
 
@@ -1217,12 +1217,12 @@ format:
   * Key: learning online with guidance offline
 
 * [Generative Planning for Temporally Coordinated Exploration in Reinforcement Learning](https://openreview.net/pdf?id=YZHES8wIdE) (Spotlight: 8, 8, 8, 6)
-  * ExpEnv: [classic continuous control env](https://github.com/openai/gym) ⚠️ Archived, [CARLA](https://github.com/carla-simulator/carla) ⭐ 14,420 | 🐛 1,198 | 🌐 C++ | 📅 2026-09-22
+  * ExpEnv: [classic continuous control env](https://github.com/openai/gym) ⚠️ Archived, [CARLA](https://github.com/carla-simulator/carla) ⭐ 14,424 | 🐛 1,198 | 🌐 C++ | 📅 2026-09-23
   * Haichao Zhang, Wei Xu, Haonan Yu
   * Key: generative planning method, temporally coordinated exploration, crude initial plan
 
 * [Learning Altruistic Behaviours in Reinforcement Learning without External Rewards](https://arxiv.org/abs/2107.09598) (Spotlight: 8, 8, 6, 6)
-  * ExpEnv: grid world env, [foraging](https://github.com/semitable/lb-foraging) ⭐ 215 | 🐛 14 | 🌐 Python | 📅 2024-09-15, [multi-agent tag](https://github.com/Farama-Foundation/PettingZoo/tree/master/pettingzoo/mpe/simple_tag) ⭐ 3,522 | 🐛 32 | 🌐 Python | 📅 2026-09-19
+  * ExpEnv: grid world env, [foraging](https://github.com/semitable/lb-foraging) ⭐ 215 | 🐛 14 | 🌐 Python | 📅 2024-09-15, [multi-agent tag](https://github.com/Farama-Foundation/PettingZoo/tree/master/pettingzoo/mpe/simple_tag) ⭐ 3,523 | 🐛 32 | 🌐 Python | 📅 2026-09-19
   * Tim Franzmeyer, Mateusz Malinowski, João F. Henriques
   * Key: altruistic behaviour, task-agnostic
 
@@ -1237,7 +1237,7 @@ format:
   * Key: unsupervised skill discovery, Lipschitz-constrained
 
 * [LIGS: Learnable Intrinsic-Reward Generation Selection for Multi-Agent Learning](https://arxiv.org/pdf/2112.02618.pdf) (Poster: 8, 6, 5, 5)
-  * ExpEnv: [foraging](https://github.com/semitable/lb-foraging) ⭐ 215 | 🐛 14 | 🌐 Python | 📅 2024-09-15, [StarCraft II](https://github.com/oxwhirl/smac) ⭐ 1,369 | 🐛 22 | 🌐 Python | 📅 2024-02-18
+  * ExpEnv: [foraging](https://github.com/semitable/lb-foraging) ⭐ 215 | 🐛 14 | 🌐 Python | 📅 2024-09-15, [StarCraft II](https://github.com/oxwhirl/smac) ⭐ 1,368 | 🐛 22 | 🌐 Python | 📅 2024-02-18
   * David Henry Mguni, Taher Jafferjee, Jianhong Wang, Nicolas Perez-Nieves, Oliver Slumbers, Feifei Tong, Yang Li, Jiangcheng Zhu, Yaodong Yang, Jun Wang
   * Key: multi-agent, coordinated exploration and behaviour, learnable intrinsic-reward generation selection, switching controls
 
@@ -1259,7 +1259,7 @@ format:
 <summary>(Click to Collapse)</summary>
 
 * [Interesting Object, Curious Agent: Learning Task-Agnostic Exploration](https://arxiv.org/abs/2111.13119) (Oral: 9, 8, 8, 8)
-  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,514 | 🐛 25 | 🌐 Python | 📅 2026-09-10, [Habitat](https://github.com/facebookresearch/habitat-sim) ⭐ 3,823 | 🐛 268 | 🌐 C++ | 📅 2026-07-21
+  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,515 | 🐛 25 | 🌐 Python | 📅 2026-09-10, [Habitat](https://github.com/facebookresearch/habitat-sim) ⭐ 3,824 | 🐛 268 | 🌐 C++ | 📅 2026-07-21
   * Simone Parisi, Victoria Dean,Deepak Pathak, Abhinav Gupta
   * Key: task-agnostic exploration, agent-centric component, environment-centric component
 
@@ -1279,7 +1279,7 @@ format:
   * ExpEnv: None
 
 * [MADE: Exploration via Maximizing Deviation from Explored Regions](https://openreview.net/pdf?id=DTVfEJIL3DB) (Poster: 7, 7, 6, 5)
-  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,514 | 🐛 25 | 🌐 Python | 📅 2026-09-10, [DeepMind Control Suite](https://github.com/deepmind/dm_control) ⭐ 4,702 | 🐛 130 | 🌐 Python | 📅 2026-09-22
+  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,515 | 🐛 25 | 🌐 Python | 📅 2026-09-10, [DeepMind Control Suite](https://github.com/deepmind/dm_control) ⭐ 4,702 | 🐛 130 | 🌐 Python | 📅 2026-09-22
   * Tianjun Zhang, Paria Rashidinejad, Jiantao Jiao, Yuandong Tian, Joseph Gonzalez, Stuart Russell
   * Key: maximizing deviation from the explored regions, intrinsic reward
 
@@ -1309,12 +1309,12 @@ format:
   * ExpEnv: Two-Agent Weighted Zero-Sum Games
 
 * [NovelD: A Simple yet Effective Exploration Criterion](https://proceedings.neurips.cc/paper/2021/file/d428d070622e0f4363fceae11f4a3576-Paper.pdf) (Poster: 7, 6, 6, 6)
-  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,514 | 🐛 25 | 🌐 Python | 📅 2026-09-10, [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,918 | 🐛 150 | 🌐 C | 📅 2026-09-22, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,515 | 🐛 25 | 🌐 Python | 📅 2026-09-10, [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,919 | 🐛 150 | 🌐 C | 📅 2026-09-23, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Tianjun Zhang, Huazhe Xu, Xiaolong Wang, Yi Wu, Kurt Keutzer, Joseph E. Gonzalez, Yuandong Tian
   * Key: weighting every novel area approximately equally
 
 * [Episodic Multi-agent Reinforcement Learning with Curiosity-driven Exploration](https://arxiv.org/pdf/2111.11032.pdf) (Poster: 7, 6, 6, 5)
-  * ExpEnv: [Predator-Prey](https://github.com/Farama-Foundation/PettingZoo) ⭐ 3,522 | 🐛 32 | 🌐 Python | 📅 2026-09-19, [StarCraft II](https://github.com/oxwhirl/smac) ⭐ 1,369 | 🐛 22 | 🌐 Python | 📅 2024-02-18
+  * ExpEnv: [Predator-Prey](https://github.com/Farama-Foundation/PettingZoo) ⭐ 3,523 | 🐛 32 | 🌐 Python | 📅 2026-09-19, [StarCraft II](https://github.com/oxwhirl/smac) ⭐ 1,368 | 🐛 22 | 🌐 Python | 📅 2024-02-18
   * Lulu Zheng, Jiarui Chen, Jianhao Wang, Jiamin He, Yujing Hu, Yingfeng Chen, Changjie Fan, Yang Gao, Chongjie Zhang
   * Key: episodic Multi-agent, curiosity-driven exploration, prediction errors, episodic memory
 
@@ -1433,7 +1433,7 @@ format:
   * Key: maximizing an information theoretic objective, unsupervised emergence of diverse skills
 
 * [Episodic Curiosity through Reachability](https://arxiv.org/abs/1810.02274) *ICLR 2019*
-  * ExpEnv: [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,084 | 🐛 39 | 🌐 C++ | 📅 2026-09-21, [DMLab](https://github.com/deepmind/lab) ⭐ 7,382 | 🐛 67 | 🌐 C | 📅 2023-01-04, [MuJoCo](https://github.com/openai/mujoco-py) ⚠️ Archived
+  * ExpEnv: [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,084 | 🐛 39 | 🌐 C++ | 📅 2026-09-21, [DMLab](https://github.com/deepmind/lab) ⭐ 7,381 | 🐛 67 | 🌐 C | 📅 2023-01-04, [MuJoCo](https://github.com/openai/mujoco-py) ⚠️ Archived
   * Nikolay Savinov, Anton Raichuk, Rapha¨el Marinier, Damien Vincent, Marc Pollefeys, Timothy Lillicrap, Sylvain Gelly
   * Key: curiosity, episodic memory, how many environment steps it takes to reach the current observation
 
@@ -1458,7 +1458,7 @@ format:
   * Key: pessimistically initialised Q-values, count-derived bonuses, optimism during both action selection and bootstrapping
 
 * [RIDE: Rewarding Impact-Driven Exploration for Procedurally-Generated Environments](https://openreview.net/pdf?id=rkg-TJBFPB) *ICLR 2020*
-  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,514 | 🐛 25 | 🌐 Python | 📅 2026-09-10
+  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,515 | 🐛 25 | 🌐 Python | 📅 2026-09-10
   * Roberta Raileanu, Tim Rocktäschel
   * Key: lead to significant changes in its learned state representation
 
@@ -1478,7 +1478,7 @@ format:
   * ExpEnv: contextual bandits, UCI Machine Learning Repository, [MNIST](http://yann.lecun.com/exdb/mnist/)
 
 * [Rank the Episodes: A Simple Approach for Exploration in Procedurally-Generated Environments](https://arxiv.org/abs/2101.08152) *ICLR 2021*
-  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,514 | 🐛 25 | 🌐 Python | 📅 2026-09-10, MiniWorld, [MuJoCo](https://github.com/openai/mujoco-py) ⚠️ Archived
+  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,515 | 🐛 25 | 🌐 Python | 📅 2026-09-10, MiniWorld, [MuJoCo](https://github.com/openai/mujoco-py) ⚠️ Archived
   * Daochen Zha, Wenye Ma, Lei Yuan, Xia Hu, Ji Liu
   * Key: procedurally-generated environments, episodic exploration score from both per-episode and long-term views
 
@@ -1502,4 +1502,4 @@ Awesome Exploration RL is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
