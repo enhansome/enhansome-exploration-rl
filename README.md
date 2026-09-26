@@ -1025,7 +1025,7 @@ format:
   * Key: continuous action spaces, temporally correlated noise, colored noise
 
 * [Learning About Progress From Experts](https://openreview.net/pdf?id=sKc6fgce1zs) (Spotlight: 8, 8, 6)
-  * ExpEnv: [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,923 | 🐛 151 | 🌐 C | 📅 2026-09-25
+  * ExpEnv: [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,926 | 🐛 150 | 🌐 C | 📅 2026-09-26
   * Jake Bruce, Ankit Anand, Bogdan Mazoure, Rob Fergus
   * Key: the use of expert demonstrations, long-horizon tasks, learn a monotonically increasing function that summarizes progress.
 
@@ -1217,7 +1217,7 @@ format:
   * Key: learning online with guidance offline
 
 * [Generative Planning for Temporally Coordinated Exploration in Reinforcement Learning](https://openreview.net/pdf?id=YZHES8wIdE) (Spotlight: 8, 8, 8, 6)
-  * ExpEnv: [classic continuous control env](https://github.com/openai/gym) ⚠️ Archived, [CARLA](https://github.com/carla-simulator/carla) ⭐ 14,429 | 🐛 1,203 | 🌐 C++ | 📅 2026-09-25
+  * ExpEnv: [classic continuous control env](https://github.com/openai/gym) ⚠️ Archived, [CARLA](https://github.com/carla-simulator/carla) ⭐ 14,434 | 🐛 1,204 | 🌐 C++ | 📅 2026-09-25
   * Haichao Zhang, Wei Xu, Haonan Yu
   * Key: generative planning method, temporally coordinated exploration, crude initial plan
 
@@ -1309,7 +1309,7 @@ format:
   * ExpEnv: Two-Agent Weighted Zero-Sum Games
 
 * [NovelD: A Simple yet Effective Exploration Criterion](https://proceedings.neurips.cc/paper/2021/file/d428d070622e0f4363fceae11f4a3576-Paper.pdf) (Poster: 7, 6, 6, 6)
-  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,515 | 🐛 25 | 🌐 Python | 📅 2026-09-10, [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,923 | 🐛 151 | 🌐 C | 📅 2026-09-25, [Atari](https://github.com/openai/gym) ⚠️ Archived
+  * ExpEnv: [MiniGrid](https://github.com/Farama-Foundation/Minigrid) ⭐ 2,515 | 🐛 25 | 🌐 Python | 📅 2026-09-10, [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,926 | 🐛 150 | 🌐 C | 📅 2026-09-26, [Atari](https://github.com/openai/gym) ⚠️ Archived
   * Tianjun Zhang, Huazhe Xu, Xiaolong Wang, Yi Wu, Kurt Keutzer, Joseph E. Gonzalez, Yuandong Tian
   * Key: weighting every novel area approximately equally
 
@@ -1502,4 +1502,4 @@ Awesome Exploration RL is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
