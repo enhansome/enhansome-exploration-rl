@@ -1217,12 +1217,12 @@ format:
   * Key: learning online with guidance offline
 
 * [Generative Planning for Temporally Coordinated Exploration in Reinforcement Learning](https://openreview.net/pdf?id=YZHES8wIdE) (Spotlight: 8, 8, 8, 6)
-  * ExpEnv: [classic continuous control env](https://github.com/openai/gym) ⚠️ Archived, [CARLA](https://github.com/carla-simulator/carla) ⭐ 14,452 | 🐛 1,191 | 🌐 C++ | 📅 2026-10-02
+  * ExpEnv: [classic continuous control env](https://github.com/openai/gym) ⚠️ Archived, [CARLA](https://github.com/carla-simulator/carla) ⭐ 14,453 | 🐛 1,192 | 🌐 C++ | 📅 2026-10-03
   * Haichao Zhang, Wei Xu, Haonan Yu
   * Key: generative planning method, temporally coordinated exploration, crude initial plan
 
 * [Learning Altruistic Behaviours in Reinforcement Learning without External Rewards](https://arxiv.org/abs/2107.09598) (Spotlight: 8, 8, 6, 6)
-  * ExpEnv: grid world env, [foraging](https://github.com/semitable/lb-foraging) ⭐ 215 | 🐛 16 | 🌐 Python | 📅 2024-09-15, [multi-agent tag](https://github.com/Farama-Foundation/PettingZoo/tree/master/pettingzoo/mpe/simple_tag) ⭐ 3,524 | 🐛 51 | 🌐 Python | 📅 2026-10-02
+  * ExpEnv: grid world env, [foraging](https://github.com/semitable/lb-foraging) ⭐ 215 | 🐛 16 | 🌐 Python | 📅 2024-09-15, [multi-agent tag](https://github.com/Farama-Foundation/PettingZoo/tree/master/pettingzoo/mpe/simple_tag) ⭐ 3,524 | 🐛 49 | 🌐 Python | 📅 2026-10-03
   * Tim Franzmeyer, Mateusz Malinowski, João F. Henriques
   * Key: altruistic behaviour, task-agnostic
 
@@ -1314,7 +1314,7 @@ format:
   * Key: weighting every novel area approximately equally
 
 * [Episodic Multi-agent Reinforcement Learning with Curiosity-driven Exploration](https://arxiv.org/pdf/2111.11032.pdf) (Poster: 7, 6, 6, 5)
-  * ExpEnv: [Predator-Prey](https://github.com/Farama-Foundation/PettingZoo) ⭐ 3,524 | 🐛 51 | 🌐 Python | 📅 2026-10-02, [StarCraft II](https://github.com/oxwhirl/smac) ⭐ 1,368 | 🐛 22 | 🌐 Python | 📅 2024-02-18
+  * ExpEnv: [Predator-Prey](https://github.com/Farama-Foundation/PettingZoo) ⭐ 3,524 | 🐛 49 | 🌐 Python | 📅 2026-10-03, [StarCraft II](https://github.com/oxwhirl/smac) ⭐ 1,368 | 🐛 22 | 🌐 Python | 📅 2024-02-18
   * Lulu Zheng, Jiarui Chen, Jianhao Wang, Jiamin He, Yujing Hu, Yingfeng Chen, Changjie Fan, Yang Gao, Chongjie Zhang
   * Key: episodic Multi-agent, curiosity-driven exploration, prediction errors, episodic memory
 
@@ -1502,4 +1502,4 @@ Awesome Exploration RL is released under the Apache 2.0 license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
