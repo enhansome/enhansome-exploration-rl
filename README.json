@@ -52,11 +52,11 @@
                         "id": 115744122,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-22T22:01:53Z",
+                        "last_commit": "2026-10-05T20:05:04Z",
                         "open_issues": 139,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4707,
+                        "stars": 4706,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -88,11 +88,11 @@
                         "id": 47593546,
                         "language": "C",
                         "license": null,
-                        "last_commit": "2026-10-04T22:37:16Z",
+                        "last_commit": "2026-10-05T22:37:16Z",
                         "open_issues": 151,
                         "owner": "NetHack",
                         "repo": "NetHack",
-                        "stars": 3932,
+                        "stars": 3933,
                         "topics": [
                           "c",
                           "game",
@@ -120,11 +120,11 @@
                         "id": 115744122,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-22T22:01:53Z",
+                        "last_commit": "2026-10-05T20:05:04Z",
                         "open_issues": 139,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4707,
+                        "stars": 4706,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -160,7 +160,7 @@
                         "open_issues": 26,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2516,
+                        "stars": 2517,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -188,11 +188,11 @@
                         "id": 115744122,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-22T22:01:53Z",
+                        "last_commit": "2026-10-05T20:05:04Z",
                         "open_issues": 139,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4707,
+                        "stars": 4706,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -266,11 +266,11 @@
                         "id": 115744122,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-22T22:01:53Z",
+                        "last_commit": "2026-10-05T20:05:04Z",
                         "open_issues": 139,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4707,
+                        "stars": 4706,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -618,7 +618,7 @@
                         "open_issues": 26,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2516,
+                        "stars": 2517,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -678,7 +678,7 @@
                         "open_issues": 26,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2516,
+                        "stars": 2517,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -822,7 +822,7 @@
                         "open_issues": 26,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2516,
+                        "stars": 2517,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1405,7 +1405,7 @@
                         "open_issues": 26,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2516,
+                        "stars": 2517,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1493,7 +1493,7 @@
                         "open_issues": 26,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2516,
+                        "stars": 2517,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1547,7 +1547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:05:45.417Z",
+    "last_updated": "2026-10-06T01:17:14.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome exploration RL resources (continually updated)",
