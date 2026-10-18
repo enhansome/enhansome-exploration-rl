@@ -28,7 +28,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -52,11 +52,11 @@
                         "id": 115744122,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-14T11:18:54Z",
+                        "last_commit": "2026-10-18T17:25:41Z",
                         "open_issues": 145,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4712,
+                        "stars": 4713,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -88,7 +88,7 @@
                         "id": 47593546,
                         "language": "C",
                         "license": null,
-                        "last_commit": "2026-10-17T21:37:16Z",
+                        "last_commit": "2026-10-18T19:37:16Z",
                         "open_issues": 156,
                         "owner": "NetHack",
                         "repo": "NetHack",
@@ -120,11 +120,11 @@
                         "id": 115744122,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-14T11:18:54Z",
+                        "last_commit": "2026-10-18T17:25:41Z",
                         "open_issues": 145,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4712,
+                        "stars": 4713,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -157,7 +157,7 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-15T21:58:24Z",
-                        "open_issues": 29,
+                        "open_issues": 30,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
                         "stars": 2527,
@@ -188,11 +188,11 @@
                         "id": 115744122,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-14T11:18:54Z",
+                        "last_commit": "2026-10-18T17:25:41Z",
                         "open_issues": 145,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4712,
+                        "stars": 4713,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -242,7 +242,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -266,11 +266,11 @@
                         "id": 115744122,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-14T11:18:54Z",
+                        "last_commit": "2026-10-18T17:25:41Z",
                         "open_issues": 145,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
-                        "stars": 4712,
+                        "stars": 4713,
                         "topics": [
                           "artificial-intelligence",
                           "deep-learning",
@@ -320,7 +320,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -348,7 +348,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -432,7 +432,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -488,7 +488,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -615,7 +615,7 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-15T21:58:24Z",
-                        "open_issues": 29,
+                        "open_issues": 30,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
                         "stars": 2527,
@@ -675,7 +675,7 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-15T21:58:24Z",
-                        "open_issues": 29,
+                        "open_issues": 30,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
                         "stars": 2527,
@@ -766,7 +766,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -819,7 +819,7 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-15T21:58:24Z",
-                        "open_issues": 29,
+                        "open_issues": 30,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
                         "stars": 2527,
@@ -851,7 +851,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-10-09T12:57:04Z",
-                        "open_issues": 62,
+                        "open_issues": 63,
                         "owner": "Farama-Foundation",
                         "repo": "PettingZoo",
                         "stars": 3535,
@@ -902,7 +902,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -930,7 +930,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1014,7 +1014,7 @@
                         "open_issues": 45,
                         "owner": "Farama-Foundation",
                         "repo": "ViZDoom",
-                        "stars": 2098,
+                        "stars": 2100,
                         "topics": [
                           "deep-learning",
                           "doom",
@@ -1051,7 +1051,7 @@
                         "open_issues": 45,
                         "owner": "Farama-Foundation",
                         "repo": "ViZDoom",
-                        "stars": 2098,
+                        "stars": 2100,
                         "topics": [
                           "deep-learning",
                           "doom",
@@ -1088,7 +1088,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1116,7 +1116,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1144,7 +1144,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1200,7 +1200,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1256,7 +1256,7 @@
                         "open_issues": 45,
                         "owner": "Farama-Foundation",
                         "repo": "ViZDoom",
-                        "stars": 2098,
+                        "stars": 2100,
                         "topics": [
                           "deep-learning",
                           "doom",
@@ -1293,7 +1293,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1321,7 +1321,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1349,7 +1349,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1377,7 +1377,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1402,7 +1402,7 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-15T21:58:24Z",
-                        "open_issues": 29,
+                        "open_issues": 30,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
                         "stars": 2527,
@@ -1437,7 +1437,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1465,7 +1465,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1490,7 +1490,7 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-15T21:58:24Z",
-                        "open_issues": 29,
+                        "open_issues": 30,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
                         "stars": 2527,
@@ -1525,7 +1525,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37241,
+                        "stars": 37240,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1547,7 +1547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T22:15:21.214Z",
+    "last_updated": "2026-10-18T22:24:04.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome exploration RL resources (continually updated)",
@@ -1559,7 +1559,7 @@
       "open_issues": 0,
       "owner": "opendilab",
       "repo": "awesome-exploration-rl",
-      "stars": 726,
+      "stars": 727,
       "topics": [
         "awesome",
         "awesome-list",
