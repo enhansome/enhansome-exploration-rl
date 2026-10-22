@@ -88,11 +88,11 @@
                         "id": 47593546,
                         "language": "C",
                         "license": null,
-                        "last_commit": "2026-10-21T19:37:17Z",
+                        "last_commit": "2026-10-22T04:37:17Z",
                         "open_issues": 159,
                         "owner": "NetHack",
                         "repo": "NetHack",
-                        "stars": 3957,
+                        "stars": 3960,
                         "topics": [
                           "c",
                           "game",
@@ -160,7 +160,7 @@
                         "open_issues": 32,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2527,
+                        "stars": 2528,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -376,7 +376,7 @@
                         "open_issues": 427,
                         "owner": "openai",
                         "repo": "mujoco-py",
-                        "stars": 3148,
+                        "stars": 3149,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -404,7 +404,7 @@
                         "open_issues": 427,
                         "owner": "openai",
                         "repo": "mujoco-py",
-                        "stars": 3148,
+                        "stars": 3149,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -516,7 +516,7 @@
                         "open_issues": 427,
                         "owner": "openai",
                         "repo": "mujoco-py",
-                        "stars": 3148,
+                        "stars": 3149,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -618,7 +618,7 @@
                         "open_issues": 32,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2527,
+                        "stars": 2528,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -650,7 +650,7 @@
                         "open_issues": 427,
                         "owner": "openai",
                         "repo": "mujoco-py",
-                        "stars": 3148,
+                        "stars": 3149,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -678,7 +678,7 @@
                         "open_issues": 32,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2527,
+                        "stars": 2528,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -710,7 +710,7 @@
                         "open_issues": 427,
                         "owner": "openai",
                         "repo": "mujoco-py",
-                        "stars": 3148,
+                        "stars": 3149,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -738,7 +738,7 @@
                         "open_issues": 427,
                         "owner": "openai",
                         "repo": "mujoco-py",
-                        "stars": 3148,
+                        "stars": 3149,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -794,7 +794,7 @@
                         "open_issues": 427,
                         "owner": "openai",
                         "repo": "mujoco-py",
-                        "stars": 3148,
+                        "stars": 3149,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -822,7 +822,7 @@
                         "open_issues": 32,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2527,
+                        "stars": 2528,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -958,7 +958,7 @@
                         "open_issues": 117,
                         "owner": "rll",
                         "repo": "rllab",
-                        "stars": 3081,
+                        "stars": 3080,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -986,7 +986,7 @@
                         "open_issues": 117,
                         "owner": "rll",
                         "repo": "rllab",
-                        "stars": 3081,
+                        "stars": 3080,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1172,7 +1172,7 @@
                         "open_issues": 427,
                         "owner": "openai",
                         "repo": "mujoco-py",
-                        "stars": 3148,
+                        "stars": 3149,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1228,7 +1228,7 @@
                         "open_issues": 427,
                         "owner": "openai",
                         "repo": "mujoco-py",
-                        "stars": 3148,
+                        "stars": 3149,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1405,7 +1405,7 @@
                         "open_issues": 32,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2527,
+                        "stars": 2528,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1493,7 +1493,7 @@
                         "open_issues": 32,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2527,
+                        "stars": 2528,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1547,7 +1547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:16:04.128Z",
+    "last_updated": "2026-10-22T23:20:24.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome exploration RL resources (continually updated)",
@@ -1559,7 +1559,7 @@
       "open_issues": 0,
       "owner": "opendilab",
       "repo": "awesome-exploration-rl",
-      "stars": 727,
+      "stars": 728,
       "topics": [
         "awesome",
         "awesome-list",
