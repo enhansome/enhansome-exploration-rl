@@ -88,8 +88,8 @@
                         "id": 47593546,
                         "language": "C",
                         "license": null,
-                        "last_commit": "2026-10-30T22:37:16Z",
-                        "open_issues": 185,
+                        "last_commit": "2026-10-31T14:37:16Z",
+                        "open_issues": 183,
                         "owner": "NetHack",
                         "repo": "NetHack",
                         "stars": 3969,
@@ -160,7 +160,7 @@
                         "open_issues": 33,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2535,
+                        "stars": 2534,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -618,7 +618,7 @@
                         "open_issues": 33,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2535,
+                        "stars": 2534,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -678,7 +678,7 @@
                         "open_issues": 33,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2535,
+                        "stars": 2534,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -822,7 +822,7 @@
                         "open_issues": 33,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2535,
+                        "stars": 2534,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -854,7 +854,7 @@
                         "open_issues": 70,
                         "owner": "Farama-Foundation",
                         "repo": "PettingZoo",
-                        "stars": 3544,
+                        "stars": 3545,
                         "topics": [
                           "api",
                           "gymnasium",
@@ -1014,7 +1014,7 @@
                         "open_issues": 47,
                         "owner": "Farama-Foundation",
                         "repo": "ViZDoom",
-                        "stars": 2105,
+                        "stars": 2106,
                         "topics": [
                           "deep-learning",
                           "doom",
@@ -1051,7 +1051,7 @@
                         "open_issues": 47,
                         "owner": "Farama-Foundation",
                         "repo": "ViZDoom",
-                        "stars": 2105,
+                        "stars": 2106,
                         "topics": [
                           "deep-learning",
                           "doom",
@@ -1256,7 +1256,7 @@
                         "open_issues": 47,
                         "owner": "Farama-Foundation",
                         "repo": "ViZDoom",
-                        "stars": 2105,
+                        "stars": 2106,
                         "topics": [
                           "deep-learning",
                           "doom",
@@ -1405,7 +1405,7 @@
                         "open_issues": 33,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2535,
+                        "stars": 2534,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1493,7 +1493,7 @@
                         "open_issues": 33,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2535,
+                        "stars": 2534,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1547,7 +1547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:42:42.190Z",
+    "last_updated": "2026-10-31T23:21:10.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome exploration RL resources (continually updated)",
