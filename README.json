@@ -28,7 +28,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -53,7 +53,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-11-11T17:00:44Z",
-                        "open_issues": 146,
+                        "open_issues": 148,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
                         "stars": 4726,
@@ -88,7 +88,7 @@
                         "id": 47593546,
                         "language": "C",
                         "license": null,
-                        "last_commit": "2026-11-12T20:37:17Z",
+                        "last_commit": "2026-11-13T22:35:04Z",
                         "open_issues": 175,
                         "owner": "NetHack",
                         "repo": "NetHack",
@@ -121,7 +121,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-11-11T17:00:44Z",
-                        "open_issues": 146,
+                        "open_issues": 148,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
                         "stars": 4726,
@@ -156,11 +156,11 @@
                         "id": 114143182,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-12T08:05:12Z",
-                        "open_issues": 42,
+                        "last_commit": "2026-11-14T00:11:58Z",
+                        "open_issues": 37,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2540,
+                        "stars": 2541,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -189,7 +189,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-11-11T17:00:44Z",
-                        "open_issues": 146,
+                        "open_issues": 148,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
                         "stars": 4726,
@@ -242,7 +242,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -267,7 +267,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-11-11T17:00:44Z",
-                        "open_issues": 146,
+                        "open_issues": 148,
                         "owner": "google-deepmind",
                         "repo": "dm_control",
                         "stars": 4726,
@@ -320,7 +320,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -348,7 +348,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -432,7 +432,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -488,7 +488,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -614,11 +614,11 @@
                         "id": 114143182,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-12T08:05:12Z",
-                        "open_issues": 42,
+                        "last_commit": "2026-11-14T00:11:58Z",
+                        "open_issues": 37,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2540,
+                        "stars": 2541,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -674,11 +674,11 @@
                         "id": 114143182,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-12T08:05:12Z",
-                        "open_issues": 42,
+                        "last_commit": "2026-11-14T00:11:58Z",
+                        "open_issues": 37,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2540,
+                        "stars": 2541,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -766,7 +766,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -818,11 +818,11 @@
                         "id": 114143182,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-12T08:05:12Z",
-                        "open_issues": 42,
+                        "last_commit": "2026-11-14T00:11:58Z",
+                        "open_issues": 37,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2540,
+                        "stars": 2541,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -851,7 +851,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-11-11T18:49:44Z",
-                        "open_issues": 60,
+                        "open_issues": 61,
                         "owner": "Farama-Foundation",
                         "repo": "PettingZoo",
                         "stars": 3553,
@@ -902,7 +902,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -930,7 +930,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1088,7 +1088,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1116,7 +1116,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1144,7 +1144,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1200,7 +1200,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1293,7 +1293,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1321,7 +1321,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1349,7 +1349,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1377,7 +1377,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1401,11 +1401,11 @@
                         "id": 114143182,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-12T08:05:12Z",
-                        "open_issues": 42,
+                        "last_commit": "2026-11-14T00:11:58Z",
+                        "open_issues": 37,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2540,
+                        "stars": 2541,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1437,7 +1437,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1465,7 +1465,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1489,11 +1489,11 @@
                         "id": 114143182,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-12T08:05:12Z",
-                        "open_issues": 42,
+                        "last_commit": "2026-11-14T00:11:58Z",
+                        "open_issues": 37,
                         "owner": "Farama-Foundation",
                         "repo": "Minigrid",
-                        "stars": 2540,
+                        "stars": 2541,
                         "topics": [
                           "gridworld-environment",
                           "gymnasium",
@@ -1525,7 +1525,7 @@
                         "open_issues": 128,
                         "owner": "openai",
                         "repo": "gym",
-                        "stars": 37233,
+                        "stars": 37235,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:21:28.320Z"
@@ -1547,7 +1547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:02:47.647Z",
+    "last_updated": "2026-11-14T00:52:31.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome exploration RL resources (continually updated)",
